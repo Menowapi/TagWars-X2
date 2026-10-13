@@ -1,0 +1,13 @@
+{
+    "base":  "X2 Update 2026-10-13 1247",
+    "fullDownload":  "(link to the full download - set in _sync\\publish.cfg)",
+    "updates":  [
+                    {
+                        "name":  "X2 Update 2026-10-13 1400",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u2202610131400/X2-Update-2026-10-13-1400.zip",
+                        "sha256":  "902CB1BB4CA13018E2268713F4B3723BA583FC7706CC740321DF6CC30FE40B8C",
+                        "size":  13028,
+                        "notes":  "TagWars X2 Launcher: automatic updates from now on."
+                    }
+                ]
+}
