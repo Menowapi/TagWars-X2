@@ -43,6 +43,13 @@
                         "sha256":  "D3779BC4624D07ABCF9AC048B9877509264DEC244BAE1DBBFCB89A92F3032F2F",
                         "size":  11023,
                         "notes":  "Version message text fix."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-13 1959",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610131959/X2-Update-2026-10-13-1959.zip",
+                        "sha256":  "C3AFBDE328DB0E0F8AD62AAC037944D20B624F573BD09F64428C9122651A9915",
+                        "size":  14596,
+                        "notes":  "Training: joystick input display (Start + Tag toggles it), attack data font."
                     }
                 ]
 }
