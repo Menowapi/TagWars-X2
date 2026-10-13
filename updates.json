@@ -22,6 +22,13 @@
                         "sha256":  "CDBF389F966089E1E3725F8076A88007C287DF5DCF692331220204E219BE7DC8",
                         "size":  14428,
                         "notes":  ""
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-13 1551",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610131551/X2-Update-2026-10-13-1551.zip",
+                        "sha256":  "486AD02530696D65D752BF90381815489196413CFB321B74AEE8849938716B7D",
+                        "size":  5962115,
+                        "notes":  "Videos (loading intro, super cinematics, Sudden Death) now fit every resolution."
                     }
                 ]
 }
