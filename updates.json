@@ -29,6 +29,13 @@
                         "sha256":  "486AD02530696D65D752BF90381815489196413CFB321B74AEE8849938716B7D",
                         "size":  5962115,
                         "notes":  "Videos (loading intro, super cinematics, Sudden Death) now fit every resolution."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-13 1647",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610131647/X2-Update-2026-10-13-1647.zip",
+                        "sha256":  "71B5ED322235957FE58E942CE55FD1B5302AB848031CCFB5B3CA55067C14577B",
+                        "size":  5966561,
+                        "notes":  "Online: connection problems show a message instead of closing the game; hold Back 2 s to leave a frozen screen."
                     }
                 ]
 }
