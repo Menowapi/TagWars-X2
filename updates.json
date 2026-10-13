@@ -8,6 +8,13 @@
                         "sha256":  "902CB1BB4CA13018E2268713F4B3723BA583FC7706CC740321DF6CC30FE40B8C",
                         "size":  13028,
                         "notes":  "TagWars X2 Launcher: automatic updates from now on."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-13 1506",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610131506/X2-Update-2026-10-13-1506.zip",
+                        "sha256":  "3B23D58CDEC470DF571DDB69C5877CC5611297EF310BE84A6BE086BC6287CA23",
+                        "size":  5978033,
+                        "notes":  ""
                     }
                 ]
 }
