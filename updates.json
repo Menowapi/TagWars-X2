@@ -36,6 +36,13 @@
                         "sha256":  "71B5ED322235957FE58E942CE55FD1B5302AB848031CCFB5B3CA55067C14577B",
                         "size":  5966561,
                         "notes":  "Online: connection problems show a message instead of closing the game; hold Back 2 s to leave a frozen screen."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-13 1653",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610131653/X2-Update-2026-10-13-1653.zip",
+                        "sha256":  "D3779BC4624D07ABCF9AC048B9877509264DEC244BAE1DBBFCB89A92F3032F2F",
+                        "size":  11023,
+                        "notes":  "Version message text fix."
                     }
                 ]
 }
