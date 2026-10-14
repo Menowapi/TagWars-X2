@@ -148,6 +148,13 @@
                         "sha256":  "FE412D7C79014F9D1D1819EC696C75133F0CDF42DC9C0B960623FB2F15E5B8AB",
                         "size":  3676,
                         "notes":  "AI vs AI: no deselect on the select screen for now (it put both teams back into picking)."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1214",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141214/X2-Update-2026-10-14-1214.zip",
+                        "sha256":  "079F09BDE7D65E24A76379DBADE8F63C201FEF5A3A0FA0DC0D13204BBE4E966B",
+                        "size":  19672,
+                        "notes":  "A Snapback ends the snapped team\u0027s Meta World."
                     }
                 ]
 }
