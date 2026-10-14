@@ -99,6 +99,13 @@
                         "sha256":  "D6B0DBB8D2F6D5C91A1CEFF0829D59D750EB0F3A7AF6C8579C191790286F0507",
                         "size":  41631,
                         "notes":  "Online: host can flip MVC / CVS on the select screen (LB, before anyone picks). Mode select waits for both players."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1111",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141111/X2-Update-2026-10-14-1111.zip",
+                        "sha256":  "CE4F9DF1D8BCA2EDB495085E52146AD1C4E8E762519E36325CA70A1640FBFE66",
+                        "size":  7486,
+                        "notes":  "Super Zoom off by default (online too): it fought the characters\u0027 own super zooms."
                     }
                 ]
 }
