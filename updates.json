@@ -78,6 +78,13 @@
                         "sha256":  "5126F210EA8AF65209D0F33DC6844E10E6992FA8BBD7BA8329490F3787EEDF25",
                         "size":  39712,
                         "notes":  "Replays moved to the Watch menu."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1005",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141005/X2-Update-2026-10-14-1005.zip",
+                        "sha256":  "AEE0DCF6ED1A3F3611F357D88D15022C4DD37A96E114E018E67BE54FBD28FB81",
+                        "size":  5963082,
+                        "notes":  "Online: no pause menu during matches (pausing desynced the match)."
                     }
                 ]
 }
