@@ -106,6 +106,13 @@
                         "sha256":  "CE4F9DF1D8BCA2EDB495085E52146AD1C4E8E762519E36325CA70A1640FBFE66",
                         "size":  7486,
                         "notes":  "Super Zoom off by default (online too): it fought the characters\u0027 own super zooms."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1115",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141115/X2-Update-2026-10-14-1115.zip",
+                        "sha256":  "811D28B37C7C9DD71D915F4A7AA5C8C0A3B077F21E1502B43545118867EF0EE5",
+                        "size":  1797,
+                        "notes":  "Random Test runs the normal pre-match setup."
                     }
                 ]
 }
