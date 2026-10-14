@@ -162,6 +162,13 @@
                         "sha256":  "06BAC8FA446B6CEF70D924A0FDDE28986A771DA74F691A6AB6F61C1AC465F6C6",
                         "size":  4075,
                         "notes":  "Training / Vs CPU / AI vs AI: Back undoes one pick at a time again (no more two cursors)."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1221",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141221/X2-Update-2026-10-14-1221.zip",
+                        "sha256":  "71A7D4C65191D35CDB33087B09FB94F88D3FE0F705A4874402CCD40853A8FCDC",
+                        "size":  11833,
+                        "notes":  "Training / Vs CPU: the mode panel waits until both sides\u0027 characters are picked."
                     }
                 ]
 }
