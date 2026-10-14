@@ -197,6 +197,13 @@
                         "sha256":  "7AEAB02B6D8E66124CDCD3CBB4DAA18F822DC021B183407488E1AB0062CB6445",
                         "size":  6019556,
                         "notes":  "Assist Style MvC2: assists can be hit during the taunt and run off after getting hit. Sudden Death on a Time Out (new option). Online: ping display above the timer, 12 heavy/no-wall stages skipped online, replays of online matches now record properly. Replays show both players\u0027 stick inputs. Smaller training stick display."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1937",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141937/X2-Update-2026-10-14-1937.zip",
+                        "sha256":  "C37AD50FAF4EEB08202D2A6B9F9CECA21C242383C6B79DE973CEC012B3549FBA",
+                        "size":  63687,
+                        "notes":  "Replays: player names show in replays of online matches, both players\u0027 stick inputs are shown while watching, replays older than 30 days are deleted automatically (put \u0027keep\u0027 in a file name to keep it). Ping no longer shows during replays. Fixed the stage select being skipped after picking modes in Training. Wall bounce update."
                     }
                 ]
 }
