@@ -113,6 +113,13 @@
                         "sha256":  "811D28B37C7C9DD71D915F4A7AA5C8C0A3B077F21E1502B43545118867EF0EE5",
                         "size":  1797,
                         "notes":  "Random Test runs the normal pre-match setup."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1148",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141148/X2-Update-2026-10-14-1148.zip",
+                        "sha256":  "2D9DA078C7B7AFFF2421362E26890FFEE850AC08276E4E74B0B7075F52067C7F",
+                        "size":  37604,
+                        "notes":  "Fix: crash when the MVC / CVS page flip happened while someone was choosing a colour."
                     }
                 ]
 }
