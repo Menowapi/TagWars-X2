@@ -85,6 +85,13 @@
                         "sha256":  "AEE0DCF6ED1A3F3611F357D88D15022C4DD37A96E114E018E67BE54FBD28FB81",
                         "size":  5963082,
                         "notes":  "Online: no pause menu during matches (pausing desynced the match)."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1102",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141102/X2-Update-2026-10-14-1102.zip",
+                        "sha256":  "3484CB7C687F3E566A30A927A8EA12C89C17B8E633C9888FC298CD5B44EACFDB",
+                        "size":  5980628,
+                        "notes":  "Controls: LB = Tag, LT = VC / Snap again (fixes the swapped LB / LT once). Desync test uses the online settings."
                     }
                 ]
 }
