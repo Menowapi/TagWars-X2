@@ -57,6 +57,13 @@
                         "sha256":  "0F3F6879324DF2950A238A90FE6B2F03AC19D94C47714E33DC4DB7D8DD3DD267",
                         "size":  69953,
                         "notes":  "Online desync fix: mode pick and palettes are the same on both PCs."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-13 2100",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610132100/X2-Update-2026-10-13-2100.zip",
+                        "sha256":  "0C3EE24FAC72A52CDA5F5C2188F0D2B6810DEEA8419D68088B85C0425DA8A915",
+                        "size":  39720,
+                        "notes":  "Main menu: REPLAYS (watch your saved online matches)."
                     }
                 ]
 }
