@@ -50,6 +50,13 @@
                         "sha256":  "C3AFBDE328DB0E0F8AD62AAC037944D20B624F573BD09F64428C9122651A9915",
                         "size":  14596,
                         "notes":  "Training: joystick input display (Start + Tag toggles it), attack data font."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-13 2024",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610132024/X2-Update-2026-10-13-2024.zip",
+                        "sha256":  "0F3F6879324DF2950A238A90FE6B2F03AC19D94C47714E33DC4DB7D8DD3DD267",
+                        "size":  69953,
+                        "notes":  "Online desync fix: mode pick and palettes are the same on both PCs."
                     }
                 ]
 }
