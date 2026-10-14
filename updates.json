@@ -141,6 +141,13 @@
                         "sha256":  "70F906DED5BA48D1E45BDD4F50F0AF3330A1158A6EC23859D98A82744DF347C4",
                         "size":  10852,
                         "notes":  "AI vs AI select: Back undoes one pick (it undid one on both teams)."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1209",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141209/X2-Update-2026-10-14-1209.zip",
+                        "sha256":  "FE412D7C79014F9D1D1819EC696C75133F0CDF42DC9C0B960623FB2F15E5B8AB",
+                        "size":  3676,
+                        "notes":  "AI vs AI: no deselect on the select screen for now (it put both teams back into picking)."
                     }
                 ]
 }
