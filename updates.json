@@ -127,6 +127,13 @@
                         "sha256":  "23F36AC0B7719440305E80F57C21352C2512AA0F510168109F800B5B6CDD0E72",
                         "size":  4823,
                         "notes":  "Watch (AI vs AI): you pick both teams\u0027 modes, P1\u0027s team first."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1156",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141156/X2-Update-2026-10-14-1156.zip",
+                        "sha256":  "A2A5096D2AB4B652621EBF60DAB6D402B71192A37770B9DABD31D22497EE53FC",
+                        "size":  31575,
+                        "notes":  "Select screen: modes are picked before stage select (they no longer share the controller)."
                     }
                 ]
 }
