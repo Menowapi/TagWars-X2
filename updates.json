@@ -134,6 +134,13 @@
                         "sha256":  "A2A5096D2AB4B652621EBF60DAB6D402B71192A37770B9DABD31D22497EE53FC",
                         "size":  31575,
                         "notes":  "Select screen: modes are picked before stage select (they no longer share the controller)."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1204",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141204/X2-Update-2026-10-14-1204.zip",
+                        "sha256":  "70F906DED5BA48D1E45BDD4F50F0AF3330A1158A6EC23859D98A82744DF347C4",
+                        "size":  10852,
+                        "notes":  "AI vs AI select: Back undoes one pick (it undid one on both teams)."
                     }
                 ]
 }
