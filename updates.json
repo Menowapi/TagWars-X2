@@ -155,6 +155,13 @@
                         "sha256":  "079F09BDE7D65E24A76379DBADE8F63C201FEF5A3A0FA0DC0D13204BBE4E966B",
                         "size":  19672,
                         "notes":  "A Snapback ends the snapped team\u0027s Meta World."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1217",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141217/X2-Update-2026-10-14-1217.zip",
+                        "sha256":  "06BAC8FA446B6CEF70D924A0FDDE28986A771DA74F691A6AB6F61C1AC465F6C6",
+                        "size":  4075,
+                        "notes":  "Training / Vs CPU / AI vs AI: Back undoes one pick at a time again (no more two cursors)."
                     }
                 ]
 }
