@@ -169,6 +169,13 @@
                         "sha256":  "71A7D4C65191D35CDB33087B09FB94F88D3FE0F705A4874402CCD40853A8FCDC",
                         "size":  11833,
                         "notes":  "Training / Vs CPU: the mode panel waits until both sides\u0027 characters are picked."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1223",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141223/X2-Update-2026-10-14-1223.zip",
+                        "sha256":  "FBB0802B97387BAD80FF966BD2278DBDEE080E6A99EEA79FE3388A26B8B9A0A7",
+                        "size":  11870,
+                        "notes":  "Training / Vs CPU: you also pick P2\u0027s mode (after yours)."
                     }
                 ]
 }
