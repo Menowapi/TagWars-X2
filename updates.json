@@ -183,6 +183,13 @@
                         "sha256":  "D13E100614B4ED96AC6606BD6607625639EE1BB08B6D02DCF40E77F6D67D3134",
                         "size":  6055200,
                         "notes":  "CPU AI phase 2 (assists, DHC, VC, Push Guard, blocking). Assist Style MvC2 (default) / MvC3. Tag: everyone faces the point character. No tag-outs during time stops."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1637",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141637/X2-Update-2026-10-14-1637.zip",
+                        "sha256":  "FEAF83EBC56BFE3A2D25A8E3EC6373835C9CB93985C00A2BEFC19A3B8DC0F52C",
+                        "size":  6066372,
+                        "notes":  "Assist Style MvC2: assists can be hit during the taunt and run off after getting hit. Sudden Death on a Time Out (new option). Online: ping display above the timer, 12 heavy/no-wall stages skipped online, replays of online matches now record properly. Replays show both players\u0027 stick inputs. Smaller training stick display."
                     }
                 ]
 }
