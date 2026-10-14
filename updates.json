@@ -176,6 +176,13 @@
                         "sha256":  "FBB0802B97387BAD80FF966BD2278DBDEE080E6A99EEA79FE3388A26B8B9A0A7",
                         "size":  11870,
                         "notes":  "Training / Vs CPU: you also pick P2\u0027s mode (after yours)."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1245",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141245/X2-Update-2026-10-14-1245.zip",
+                        "sha256":  "D13E100614B4ED96AC6606BD6607625639EE1BB08B6D02DCF40E77F6D67D3134",
+                        "size":  6055200,
+                        "notes":  "CPU AI phase 2 (assists, DHC, VC, Push Guard, blocking). Assist Style MvC2 (default) / MvC3. Tag: everyone faces the point character. No tag-outs during time stops."
                     }
                 ]
 }
