@@ -190,6 +190,13 @@
                         "sha256":  "FEAF83EBC56BFE3A2D25A8E3EC6373835C9CB93985C00A2BEFC19A3B8DC0F52C",
                         "size":  6066372,
                         "notes":  "Assist Style MvC2: assists can be hit during the taunt and run off after getting hit. Sudden Death on a Time Out (new option). Online: ping display above the timer, 12 heavy/no-wall stages skipped online, replays of online matches now record properly. Replays show both players\u0027 stick inputs. Smaller training stick display."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-14 1714",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610141714/X2-Update-2026-10-14-1714.zip",
+                        "sha256":  "7AEAB02B6D8E66124CDCD3CBB4DAA18F822DC021B183407488E1AB0062CB6445",
+                        "size":  6019556,
+                        "notes":  "Assist Style MvC2: assists can be hit during the taunt and run off after getting hit. Sudden Death on a Time Out (new option). Online: ping display above the timer, 12 heavy/no-wall stages skipped online, replays of online matches now record properly. Replays show both players\u0027 stick inputs. Smaller training stick display."
                     }
                 ]
 }
