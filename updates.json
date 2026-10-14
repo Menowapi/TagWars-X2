@@ -64,6 +64,13 @@
                         "sha256":  "0C3EE24FAC72A52CDA5F5C2188F0D2B6810DEEA8419D68088B85C0425DA8A915",
                         "size":  39720,
                         "notes":  "Main menu: REPLAYS (watch your saved online matches)."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-13 2107",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610132107/X2-Update-2026-10-13-2107.zip",
+                        "sha256":  "223FD68BF720F6F208C3DEF76F6B551F6DCB7DE9BF09F48F6EB76CC397073BB2",
+                        "size":  11133,
+                        "notes":  "Online: CVS works - both players use the host\u0027s style (MVC / CVS)."
                     }
                 ]
 }
