@@ -204,6 +204,13 @@
                         "sha256":  "C37AD50FAF4EEB08202D2A6B9F9CECA21C242383C6B79DE973CEC012B3549FBA",
                         "size":  63687,
                         "notes":  "Replays: player names show in replays of online matches, both players\u0027 stick inputs are shown while watching, replays older than 30 days are deleted automatically (put \u0027keep\u0027 in a file name to keep it). Ping no longer shows during replays. Fixed the stage select being skipped after picking modes in Training. Wall bounce update."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-16 1436",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610161436/X2-Update-2026-10-16-1436.zip",
+                        "sha256":  "585AD65F49666882A737AF3162DB493C08AF2DC3BE7C1293D75A32155BBC0184",
+                        "size":  89469157,
+                        "notes":  "Hyper Drive mode (D), Combo Breaker cooldown style + fixes, vnix 2.7.3 text effects, air Guard Push fix + EOH effect option, BBTag Guard Push, Meta World 2 stocks/8s in team modes, Heat Drive 8s + 10s cooldown, snapback fix, Danger sound, SF4/SFV custom-state fixes, character fixes."
                     }
                 ]
 }
