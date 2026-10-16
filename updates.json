@@ -218,6 +218,13 @@
                         "sha256":  "77741C89169AD2F3000E6EC3393ACDF084EC69E08F4353C5F76077DBAF1EA3A3",
                         "size":  25920,
                         "notes":  "Infinity Stones: use your stone with HP+HK (was LP+LK), same as the other modes. Normal Vegeta Z2: fixed him turning into a ki blast and floating off screen."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-16 1531",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610161531/X2-Update-2026-10-16-1531.zip",
+                        "sha256":  "7DE26B3A8741C9A34C3CF90E17C32B14304AA9D5CC24131B445586DEE34C4A0E",
+                        "size":  35987,
+                        "notes":  "Infinity Stones: use your stone with HP+HK (was LP+LK), same as the other modes. Normal Vegeta Z2: fixed him turning into a ki blast and floating off screen."
                     }
                 ]
 }
