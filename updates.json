@@ -225,6 +225,13 @@
                         "sha256":  "7DE26B3A8741C9A34C3CF90E17C32B14304AA9D5CC24131B445586DEE34C4A0E",
                         "size":  35987,
                         "notes":  "Infinity Stones: use your stone with HP+HK (was LP+LK), same as the other modes. Normal Vegeta Z2: fixed him turning into a ki blast and floating off screen."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-16 1543",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610161543/X2-Update-2026-10-16-1543.zip",
+                        "sha256":  "901574E6C0D84C76986974D1EA8F0730E47834AD3A9E96E57129B3E86670F3BB",
+                        "size":  9940632,
+                        "notes":  "No items or Meta World during the Sudden Death round."
                     }
                 ]
 }
