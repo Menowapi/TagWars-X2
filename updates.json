@@ -246,6 +246,13 @@
                         "sha256":  "B04D012B5E52370F91EFE2A559AFF63D1D0ED5AB8A1A3C4C888CD11BF0421DE4",
                         "size":  5943,
                         "notes":  "Hyper Drive: cancelling a special into the same special now costs gauge/timer (was free and endless, e.g. Heavy D qcf+y)."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-17 2312",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610172312/X2-Update-2026-10-17-2312.zip",
+                        "sha256":  "11DFA2C65873BD685B9F1FB265130423826FC17B3DD438FB976576304557499A",
+                        "size":  21859,
+                        "notes":  "Heat Drive: 8-way air dash removed, no air dash while Heat Drive is on, heavier super jump in Heat Drive. Hyper Drive: cancel into a super costs power only while the gauge builds; in Hyper Drive super cancels only in the last 2 seconds."
                     }
                 ]
 }
