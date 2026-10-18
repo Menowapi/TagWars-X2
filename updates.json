@@ -239,6 +239,13 @@
                         "sha256":  "41E96523CBBB818FA214044358B8C5B91B04435A8A19A07F0820B75187A615F5",
                         "size":  38441849,
                         "notes":  "LB/LT swap fix (checks every second now), X-Factor no longer carries over between rounds/matches, Baroque vs Drive Impact input fix, Combo Breaker LP+MP+HP / Counter Breaker LK+MK+HK + new Meter style (2000 power), Heat Drive 15 s + H icon refill + Wild Counter any time, Hyper Drive Drive Cancel (half gauge) + faster gauge on bigger combos + Wild Counter, burnout blocks tag/assist/snap/TAC/VC/DHC/air dash/parry/push guard/guard dash cancel/combo breaker, select screen profile load fix, Heavy D palette fix, 8-way air dash tilt."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-17 2238",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610172238/X2-Update-2026-10-17-2238.zip",
+                        "sha256":  "B04D012B5E52370F91EFE2A559AFF63D1D0ED5AB8A1A3C4C888CD11BF0421DE4",
+                        "size":  5943,
+                        "notes":  "Hyper Drive: cancelling a special into the same special now costs gauge/timer (was free and endless, e.g. Heavy D qcf+y)."
                     }
                 ]
 }
