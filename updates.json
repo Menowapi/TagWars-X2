@@ -253,6 +253,13 @@
                         "sha256":  "11DFA2C65873BD685B9F1FB265130423826FC17B3DD438FB976576304557499A",
                         "size":  21859,
                         "notes":  "Heat Drive: 8-way air dash removed, no air dash while Heat Drive is on, heavier super jump in Heat Drive. Hyper Drive: cancel into a super costs power only while the gauge builds; in Hyper Drive super cancels only in the last 2 seconds."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-18 0024",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610180024/X2-Update-2026-10-18-0024.zip",
+                        "sha256":  "4325B9D76DA25B5248C1CF54E4609B06A133185DA02A8AA6344AEFB854348767",
+                        "size":  127405,
+                        "notes":  "CVS online: chain combos, super jump and air dash are off. Hyper Drive gauge builds faster (specials 90, supers 120 per hit). Zero and Marco changes."
                     }
                 ]
 }
