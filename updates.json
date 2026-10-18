@@ -260,6 +260,13 @@
                         "sha256":  "4325B9D76DA25B5248C1CF54E4609B06A133185DA02A8AA6344AEFB854348767",
                         "size":  127405,
                         "notes":  "CVS online: chain combos, super jump and air dash are off. Hyper Drive gauge builds faster (specials 90, supers 120 per hit). Zero and Marco changes."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-18 1349",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610181349/X2-Update-2026-10-18-1349.zip",
+                        "sha256":  "43DA92201AC0A0FD61FFC1DCAC540FE283F45C9B93D12F72C835EC765B4BA4F3",
+                        "size":  767132,
+                        "notes":  "Items: Bomb, Heart, Frag Stone, Phoenix Elixir and Dispel Knife removed; Painkiller / Crit Berry / Soul Pearl / Blood Crystal last 3 hits; Hammer and Phase Cap 4 s; Shield 125. Animation changes for CVS and MVC characters."
                     }
                 ]
 }
