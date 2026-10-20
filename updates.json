@@ -288,6 +288,13 @@
                         "sha256":  "7F41D4B505F4A7A8F3EFE436E640B674CA5F2BB0B185A6D2E9B1AE47868FE2E4",
                         "size":  5968467,
                         "notes":  "New engine (bgpad30): hold Back on a controller for 2 seconds to leave an online match (same as Esc); co-op shows P3/P4 profile names on their lifebars. Ping removed from the select/VS screens (it only showed the last match\u0027s number)."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-19 2204",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610192204/X2-Update-2026-10-19-2204.zip",
+                        "sha256":  "6D68E85805C2A0E7D409C8DD4AB18869CC2B5DD662ECC124AC7B2DED131CD9FB",
+                        "size":  147407,
+                        "notes":  "Online: Back/B cancels Host/Join waiting; holding Back leaves the select screen online; \u0027LEAVING\u0027 text when holding Back online. Win camera stays on the winner every round (no panning up on air KOs). Extra Settings: Blood submenu (from 50%/always, splat sound, colour) and Ultra Combo submenu (hits needed, opponent life). No super jump in burnout. X-Factor no longer fires on Drive Impact (Forward + HP+HK). Sudden Death logs every KO."
                     }
                 ]
 }
