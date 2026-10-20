@@ -316,6 +316,13 @@
                         "sha256":  "6689CDDA6D0F007116495B8265BBC50B3BB6C672BC96BF0FE0298186250973D9",
                         "size":  5966007,
                         "notes":  "Engine bgpad31: hold Back on a controller for 2 seconds to leave a replay (same as Esc)."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-20 1008",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610201008/X2-Update-2026-10-20-1008.zip",
+                        "sha256":  "7301831EB1D0EEC8CE95CC56962ABB5876709AE9203E061A882A3C0CC211AEFE",
+                        "size":  10426,
+                        "notes":  "Input display (training / replays): smaller, sits right above the Hyper Drive gauge spot for both sides in every mode."
                     }
                 ]
 }
