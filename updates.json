@@ -295,6 +295,13 @@
                         "sha256":  "6D68E85805C2A0E7D409C8DD4AB18869CC2B5DD662ECC124AC7B2DED131CD9FB",
                         "size":  147407,
                         "notes":  "Online: Back/B cancels Host/Join waiting; holding Back leaves the select screen online; \u0027LEAVING\u0027 text when holding Back online. Win camera stays on the winner every round (no panning up on air KOs). Extra Settings: Blood submenu (from 50%/always, splat sound, colour) and Ultra Combo submenu (hits needed, opponent life). No super jump in burnout. X-Factor no longer fires on Drive Impact (Forward + HP+HK). Sudden Death logs every KO."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-19 2228",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610192228/X2-Update-2026-10-19-2228.zip",
+                        "sha256":  "0B2B06D3A410197151C19E5298F2C45FCC55EA218A15C2ECE7854FDB74D37E12",
+                        "size":  66476,
+                        "notes":  "Burnout locks Dramatic Dodge, Hyper Drive special cancels and Last Stand too. Training input display sits smaller above the Hyper Drive gauge for Hyper Drive teams."
                     }
                 ]
 }
