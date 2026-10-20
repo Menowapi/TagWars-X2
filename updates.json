@@ -281,6 +281,13 @@
                         "sha256":  "B7607E6C9E87A6E860A3D32840C4C292E84F47E7136612098D200844CB14D696",
                         "size":  165950,
                         "notes":  "vnix 2.7.3 ports: Mega Burst (Baroque/Heat Drive/Infinity Stones/Hyper Drive teams), Just Defend, Ultra Combo, Dual Assault (D,DB,B+LB, combos in), revamped Dramatic Dodge (MP+HK), blood effects. X-Factor \u0027Under 50% Life\u0027 option. Combo Breaker Meter style 30 s cooldown; Counter Breaker 2000 power for Mega Burst teams. No charging in burnout. VS screen names + mode letters. Online: Netplay Settings + Profile menus, hold Back 2 s to leave a match, only First Attack/Danger text, last-match ping on select/VS. CVS character updates."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-19 2023",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610192023/X2-Update-2026-10-19-2023.zip",
+                        "sha256":  "7F41D4B505F4A7A8F3EFE436E640B674CA5F2BB0B185A6D2E9B1AE47868FE2E4",
+                        "size":  5968467,
+                        "notes":  "New engine (bgpad30): hold Back on a controller for 2 seconds to leave an online match (same as Esc); co-op shows P3/P4 profile names on their lifebars. Ping removed from the select/VS screens (it only showed the last match\u0027s number)."
                     }
                 ]
 }
