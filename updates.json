@@ -302,6 +302,13 @@
                         "sha256":  "0B2B06D3A410197151C19E5298F2C45FCC55EA218A15C2ECE7854FDB74D37E12",
                         "size":  66476,
                         "notes":  "Burnout locks Dramatic Dodge, Hyper Drive special cancels and Last Stand too. Training input display sits smaller above the Hyper Drive gauge for Hyper Drive teams."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-20 0949",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610200949/X2-Update-2026-10-20-0949.zip",
+                        "sha256":  "1C314B977235D20957978C3D77DF013A68A8B6BD414069A31ADE3E453DA4FE8B",
+                        "size":  24702,
+                        "notes":  "LB/LT fix: profiles can no longer be saved or loaded with LB and LT backwards (TagWars layout LT = VC/Snap, LB = Tag/Assist is enforced on save and load)."
                     }
                 ]
 }
