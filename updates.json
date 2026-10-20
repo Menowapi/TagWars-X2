@@ -267,6 +267,13 @@
                         "sha256":  "43DA92201AC0A0FD61FFC1DCAC540FE283F45C9B93D12F72C835EC765B4BA4F3",
                         "size":  767132,
                         "notes":  "Items: Bomb, Heart, Frag Stone, Phoenix Elixir and Dispel Knife removed; Painkiller / Crit Berry / Soul Pearl / Blood Crystal last 3 hits; Hammer and Phase Cap 4 s; Shield 125. Animation changes for CVS and MVC characters."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-19 1620",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610191620/X2-Update-2026-10-19-1620.zip",
+                        "sha256":  "5D11D012983030303B52863462FE14AA4D8146E99D6514659AE8683A05B2BF38",
+                        "size":  139824129,
+                        "notes":  "vnix 2.7.3 ports: Mega Burst (Baroque/Heat Drive/Infinity Stones/Hyper Drive teams), Just Defend, Ultra Combo, Dual Assault (D,DB,B+LB, combos in), revamped Dramatic Dodge (MP+HK), blood effects. X-Factor \u0027Under 50% Life\u0027 option. Combo Breaker Meter style 30 s cooldown; Counter Breaker 2000 power for Mega Burst teams. No charging in burnout. VS screen names + mode letters. Online: Netplay Settings + Profile menus, hold Back 2 s to leave a match, only First Attack/Danger text, last-match ping on select/VS. CVS character updates."
                     }
                 ]
 }
