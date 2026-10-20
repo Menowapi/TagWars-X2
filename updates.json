@@ -323,6 +323,13 @@
                         "sha256":  "7301831EB1D0EEC8CE95CC56962ABB5876709AE9203E061A882A3C0CC211AEFE",
                         "size":  10426,
                         "notes":  "Input display (training / replays): smaller, sits right above the Hyper Drive gauge spot for both sides in every mode."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-20 1054",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610201054/X2-Update-2026-10-20-1054.zip",
+                        "sha256":  "18982F99BE0C367603EEB82D0A26AD6F5A75D89129B016653D6FB5AD664A3C59",
+                        "size":  5980509,
+                        "notes":  ""
                     }
                 ]
 }
