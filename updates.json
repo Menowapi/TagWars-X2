@@ -309,6 +309,13 @@
                         "sha256":  "1C314B977235D20957978C3D77DF013A68A8B6BD414069A31ADE3E453DA4FE8B",
                         "size":  24702,
                         "notes":  "LB/LT fix: profiles can no longer be saved or loaded with LB and LT backwards (TagWars layout LT = VC/Snap, LB = Tag/Assist is enforced on save and load)."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-20 0957",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610200957/X2-Update-2026-10-20-0957.zip",
+                        "sha256":  "6689CDDA6D0F007116495B8265BBC50B3BB6C672BC96BF0FE0298186250973D9",
+                        "size":  5966007,
+                        "notes":  "Engine bgpad31: hold Back on a controller for 2 seconds to leave a replay (same as Esc)."
                     }
                 ]
 }
