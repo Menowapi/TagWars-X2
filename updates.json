@@ -393,6 +393,13 @@
                         "sha256":  "B6FB1EFF6DF3895B260EF6A9C10B8D7C516F8B6711CE5168913E84CD2C1FA733",
                         "size":  13858,
                         "notes":  "Kim fixes, updated move lists, settings and profiles now save cleanly"
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-21 1628",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610211628/X2-Update-2026-10-21-1628.zip",
+                        "sha256":  "4A00B86D0C382FD1B56E2D375E8F8F743912B55DF92127EE193973755B015730",
+                        "size":  23227,
+                        "notes":  "Online: both players now use the host\u0027s lifebar (different lifebars caused desyncs on hits)"
                     }
                 ]
 }
