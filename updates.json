@@ -407,6 +407,13 @@
                         "sha256":  "236D6D5B03E00B840C47A0FB85B05D23575468889A51FA2949C45A92C9FC4299",
                         "size":  13857,
                         "notes":  "Online: both players now use the host\u0027s lifebar (different lifebars caused desyncs on hits)"
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-21 1704",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610211704/X2-Update-2026-10-21-1704.zip",
+                        "sha256":  "091A06FE028D8F366441D30FE7990B542D56837A86B741B395DE6549764D44CF",
+                        "size":  3644496,
+                        "notes":  "NEW: ONLINE \u003e LOBBY - host or join online rooms with no port forwarding (first start checks your game files for about 2 minutes)"
                     }
                 ]
 }
