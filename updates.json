@@ -379,6 +379,13 @@
                         "sha256":  "46D06380EEBAE4FC8E7986F55F9A26EB8A5FF1C96283A4D0E88C6FF1821D68AC",
                         "size":  196433,
                         "notes":  "Kim fixes, updated move lists, settings and profiles now save cleanly"
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-21 1513",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610211513/X2-Update-2026-10-21-1513.zip",
+                        "sha256":  "9F31F43EA244EE8093BFDCA09726AE014CDDD8517F612DADB4DD4132E1C3B0B9",
+                        "size":  84649,
+                        "notes":  "Kim fixes, updated move lists, settings and profiles now save cleanly"
                     }
                 ]
 }
