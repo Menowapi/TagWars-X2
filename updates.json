@@ -400,6 +400,13 @@
                         "sha256":  "4A00B86D0C382FD1B56E2D375E8F8F743912B55DF92127EE193973755B015730",
                         "size":  23227,
                         "notes":  "Online: both players now use the host\u0027s lifebar (different lifebars caused desyncs on hits)"
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-21 1635",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610211635/X2-Update-2026-10-21-1635.zip",
+                        "sha256":  "236D6D5B03E00B840C47A0FB85B05D23575468889A51FA2949C45A92C9FC4299",
+                        "size":  13857,
+                        "notes":  "Online: both players now use the host\u0027s lifebar (different lifebars caused desyncs on hits)"
                     }
                 ]
 }
