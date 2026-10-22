@@ -421,6 +421,13 @@
                         "sha256":  "C45378962AEE6C6B00CF249517E7C885D0A6BF6C5A151BF24BB8322817B17BA4",
                         "size":  9622349,
                         "notes":  "Watch online rooms live: ONLINE \u003e LOBBY \u003e pick a room \u003e WATCH. Replays of online matches now match the real fight. Everyone needs this update to play online together."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-21 2223",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610212223/X2-Update-2026-10-21-2223.zip",
+                        "sha256":  "F8A6EDA3BF45442B3C09649A7DE2F9BE4D22B1CA88D5A304E23FFFCFFB9E009F",
+                        "size":  51843,
+                        "notes":  "Online lobby: PLAYING AS now lets you pick your profile right there (name updates at once). The lobby\u0027s dark panel fills 16:9 screens. HOST NETPLAY (DIRECT) removed from the lobby (use X2\u0027s own HOST GAME for direct netplay). Everyone needs this update to see each other\u0027s rooms."
                     }
                 ]
 }
