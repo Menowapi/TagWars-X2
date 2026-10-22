@@ -428,6 +428,13 @@
                         "sha256":  "F8A6EDA3BF45442B3C09649A7DE2F9BE4D22B1CA88D5A304E23FFFCFFB9E009F",
                         "size":  51843,
                         "notes":  "Online lobby: PLAYING AS now lets you pick your profile right there (name updates at once). The lobby\u0027s dark panel fills 16:9 screens. HOST NETPLAY (DIRECT) removed from the lobby (use X2\u0027s own HOST GAME for direct netplay). Everyone needs this update to see each other\u0027s rooms."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-21 2237",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610212237/X2-Update-2026-10-21-2237.zip",
+                        "sha256":  "6275BEA14AFA365816CA114427623AED64A6E28B298AFBEE11EE8086DA6FC294",
+                        "size":  79123,
+                        "notes":  "ONLINE menu: LOBBY is now the first item. PROFILE removed from ONLINE (pick your profile in the lobby\u0027s PLAYING AS; profile saving and controls stay in OPTIONS). Everyone needs this update to see each other\u0027s rooms."
                     }
                 ]
 }
