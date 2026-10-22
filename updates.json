@@ -456,6 +456,13 @@
                         "sha256":  "56ED647F7351C0A04025C411079AC0ED273F82BC4363634AC15B0BA5FA741457",
                         "size":  2514139,
                         "notes":  "Fixes a startup crash from unfinished lifebars: removes the Megamix, Mugen1 and EFZRedux lifebars (back to TagWars) and fixes long lifebar files crashing the game."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-22 1630",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610221630/X2-Update-2026-10-22-1630.zip",
+                        "sha256":  "669E77D94640B6A7602121551FD9FED19FE292B32F99DA6BA5BA5D253E2C0E6F",
+                        "size":  36878,
+                        "notes":  "Fixes a startup crash from unfinished lifebars: removes the Megamix, Mugen1 and EFZRedux lifebars (back to TagWars) and fixes long lifebar files crashing the game."
                     }
                 ]
 }
