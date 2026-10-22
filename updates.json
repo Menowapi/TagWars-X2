@@ -435,6 +435,13 @@
                         "sha256":  "6275BEA14AFA365816CA114427623AED64A6E28B298AFBEE11EE8086DA6FC294",
                         "size":  79123,
                         "notes":  "ONLINE menu: LOBBY is now the first item. PROFILE removed from ONLINE (pick your profile in the lobby\u0027s PLAYING AS; profile saving and controls stay in OPTIONS). Everyone needs this update to see each other\u0027s rooms."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-22 1246",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610221246/X2-Update-2026-10-22-1246.zip",
+                        "sha256":  "69CD64AA02889057924AB5BFC8805DADC7FD3B226F4089B022C0114725A61126",
+                        "size":  36538944,
+                        "notes":  ""
                     }
                 ]
 }
