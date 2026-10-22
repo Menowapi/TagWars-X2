@@ -477,6 +477,13 @@
                         "sha256":  "5E55F0BE4D519F4FCA6E02ADFACF6185E047A815E73E32BC275F22AB6EE6CFC4",
                         "size":  18441,
                         "notes":  "Online lobby fix: the CPU AI no longer changes game files during CPU matches (bans go to save\\twai_stuck.txt), so two PCs on the same update stop showing DIFFERENT VERSION."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-22 1918",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610221918/X2-Update-2026-10-22-1918.zip",
+                        "sha256":  "7AB3C1A2195521B90161252BB622E61A7832B33E89E58431DFED23D4C4114681",
+                        "size":  3608208,
+                        "notes":  "Online lobby fix: the version check now ignores Windows desktop.ini files, so players who installed from the full download match everyone else."
                     }
                 ]
 }
