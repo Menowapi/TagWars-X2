@@ -414,6 +414,13 @@
                         "sha256":  "091A06FE028D8F366441D30FE7990B542D56837A86B741B395DE6549764D44CF",
                         "size":  3644496,
                         "notes":  "NEW: ONLINE \u003e LOBBY - host or join online rooms with no port forwarding (first start checks your game files for about 2 minutes)"
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-21 2118",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610212118/X2-Update-2026-10-21-2118.zip",
+                        "sha256":  "C45378962AEE6C6B00CF249517E7C885D0A6BF6C5A151BF24BB8322817B17BA4",
+                        "size":  9622349,
+                        "notes":  "Watch online rooms live: ONLINE \u003e LOBBY \u003e pick a room \u003e WATCH. Replays of online matches now match the real fight. Everyone needs this update to play online together."
                     }
                 ]
 }
