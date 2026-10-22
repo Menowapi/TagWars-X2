@@ -470,6 +470,13 @@
                         "sha256":  "A05F09D1FB7531D87848103A2CED898A28DF3D628E4035D5B4DE255C6193ACD5",
                         "size":  4313141,
                         "notes":  "Fixes a startup crash from unfinished lifebars: removes the Megamix, Mugen1 and EFZRedux lifebars (back to TagWars) and fixes long lifebar files crashing the game."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-22 1910",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610221910/X2-Update-2026-10-22-1910.zip",
+                        "sha256":  "5E55F0BE4D519F4FCA6E02ADFACF6185E047A815E73E32BC275F22AB6EE6CFC4",
+                        "size":  18441,
+                        "notes":  "Online lobby fix: the CPU AI no longer changes game files during CPU matches (bans go to save\\twai_stuck.txt), so two PCs on the same update stop showing DIFFERENT VERSION."
                     }
                 ]
 }
