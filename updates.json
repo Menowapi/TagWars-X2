@@ -484,6 +484,13 @@
                         "sha256":  "7AB3C1A2195521B90161252BB622E61A7832B33E89E58431DFED23D4C4114681",
                         "size":  3608208,
                         "notes":  "Online lobby fix: the version check now ignores Windows desktop.ini files, so players who installed from the full download match everyone else."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-23 1155",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610231155/X2-Update-2026-10-23-1155.zip",
+                        "sha256":  "004DFAFB423E1CD45D12CEB9A65EA074C210FA15F436E354C0DF55B3B9027CA5",
+                        "size":  17870,
+                        "notes":  "SF vs MK: no black silhouette during the floor-change pop-up"
                     }
                 ]
 }
