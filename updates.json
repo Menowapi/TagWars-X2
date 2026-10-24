@@ -505,6 +505,13 @@
                         "sha256":  "9D6F469E5F45B4BAC9F4D342285620A3235548B974B024FA1A8DDAA52C5736C5",
                         "size":  155394,
                         "notes":  "SF vs MK: no black silhouette during the floor-change pop-up"
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-24 0026",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610240026/X2-Update-2026-10-24-0026.zip",
+                        "sha256":  "4B2638DA783E23AE9EBF925720D3774A82A5474BFF9380E0D091CA9EBB6BE68B",
+                        "size":  14075641,
+                        "notes":  ""
                     }
                 ]
 }
