@@ -568,6 +568,13 @@
                         "sha256":  "98DA4A4119FFE1FC1F6FBBE554B70A7E0F1D62FCB35BDF872067B624CE1841B4",
                         "size":  373,
                         "notes":  "Ultra Combo back to Off by default; Pyron sprite update"
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-25 1734",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610251734/X2-Update-2026-10-25-1734.zip",
+                        "sha256":  "F1C41092DEDAD4F3F97B120B42CD13A435EBB8CB3A5DA00D564214A285527EFA",
+                        "size":  371,
+                        "notes":  "Ultra Combo Off by default (correction)"
                     }
                 ]
 }
