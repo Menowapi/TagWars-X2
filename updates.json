@@ -519,6 +519,13 @@
                         "sha256":  "D56761858A515CAC654D1011563E420105E68394BFFD4ADB1057358A92E6AC98",
                         "size":  36484688,
                         "notes":  ""
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-24 2304",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610242304/X2-Update-2026-10-24-2304.zip",
+                        "sha256":  "9DB9F6963F625943C304AAE09E62AE3A828C64795605F4725D92D3B3A1F84DFA",
+                        "size":  55505450,
+                        "notes":  ""
                     }
                 ]
 }
