@@ -575,6 +575,13 @@
                         "sha256":  "F1C41092DEDAD4F3F97B120B42CD13A435EBB8CB3A5DA00D564214A285527EFA",
                         "size":  371,
                         "notes":  "Ultra Combo Off by default (correction)"
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-25 1744",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610251744/X2-Update-2026-10-25-1744.zip",
+                        "sha256":  "1AD412A5CCA8F436F9B7786325AE8E6223B59B560E0672DC2A59BD237D725257",
+                        "size":  37417,
+                        "notes":  "Ultra Combo now defaults to Off; Jubei fix"
                     }
                 ]
 }
