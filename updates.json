@@ -554,6 +554,13 @@
                         "sha256":  "B01191FB24C6E364780D0E50BA05710517D56073D0EA7E7C8614A65DD9A59E8C",
                         "size":  54385,
                         "notes":  "Forced tag out: Baroque and Hyper Drive teams\u0027 33% combos force the opponent out (9/15 s, modes end, KO portrait animation)"
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-25 1656",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610251656/X2-Update-2026-10-25-1656.zip",
+                        "sha256":  "00A425524BE087E0F670E83C3D8EF12A21637E79841569E888A3B648849B4D58",
+                        "size":  1495906,
+                        "notes":  "Ultra Combo back to Off by default; Pyron sprite update"
                     }
                 ]
 }
