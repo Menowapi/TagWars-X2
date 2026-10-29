@@ -687,6 +687,13 @@
                         "sha256":  "C8AC7A5F88977C5628E0D2A7676059ED6EA745BBE0223920E88C428E1AB176DD",
                         "size":  319296194,
                         "notes":  ""
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-28 2241",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610282241/X2-Update-2026-10-28-2241.zip",
+                        "sha256":  "4F820FC87EB60E1141A791C9B8DA0E2E6567813092D8B67E3A73A1A367B86823",
+                        "size":  42104,
+                        "notes":  "New: The title screen tells you when an update is out, with an UPDATE button\nNew: WHAT\u0027S NEW screen: read the patch notes, then update now or later\nNew: After updating, WHAT\u0027S NEW shows once so you can see what changed\nChange: Online play asks you to update first when your game is out of date (offline modes still work)\nChange: Music volume evened out across all songs"
                     }
                 ]
 }
