@@ -694,6 +694,13 @@
                         "sha256":  "4F820FC87EB60E1141A791C9B8DA0E2E6567813092D8B67E3A73A1A367B86823",
                         "size":  42104,
                         "notes":  "New: The title screen tells you when an update is out, with an UPDATE button\nNew: WHAT\u0027S NEW screen: read the patch notes, then update now or later\nNew: After updating, WHAT\u0027S NEW shows once so you can see what changed\nChange: Online play asks you to update first when your game is out of date (offline modes still work)\nChange: Music volume evened out across all songs"
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-29 1632",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610291632/X2-Update-2026-10-29-1632.zip",
+                        "sha256":  "AF8C2987C4573A0F926F3285DC17167E08A4B75951E55434268271323EA74A24",
+                        "size":  50554124,
+                        "notes":  "Change: After your point character is KO\u0027d, the next character waits about 1.5 seconds before jumping in (it was instant in 2-character teams)\nFix: In 2-character teams the next character now enters from a random side after a KO, like in 3-character teams., and holds back until the opponent\u0027s attack is over (5 seconds at most).\nNew: CVS characters now have their own move lists in the pause Command List (CVS characters showed no list or the wrong one before)\nChange: In CVS style the pause screen no longer shows the MVC super inputs; check Command List for each character\u0027s supers\nChange: Removed the small animated avatar from the bottom left of the title screen\nFix: Command List inputs now line up with their move names\nFix: Command List shows \u0027any punch\u0027 (P) and \u0027any two punches\u0027 (P+P) instead of one specific button, EX versions get their own row, and Custom Combo shows as Down + Tag on one row\nChange: Command List shows double motions as two motion icons (QCF QCF) and uses the 2-punch / 3-punch (and kick) icons\nChange: Bardock\u0027s supers now deal standard damage: level 1 about 160, level 2 about 240, level 3 about 360 (Air Riot Javelin, Heat Phalanx, Super Riot Javelin, MAX Heat Phalanx, Final Spirit Cannon and Rebellion Trigger were doing up to 750)\nChange: Super BG is now set separately for each style: MVC uses the MvC2 background, CVS uses Blend (change either in Options while that style is on)\nFix: With Random Battle on, a rematch could give the same character on both teams the same colour; mirror picks now always get different colours"
                     }
                 ]
 }
