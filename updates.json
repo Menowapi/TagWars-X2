@@ -750,6 +750,13 @@
                         "sha256":  "559F302664A2E2FC0B833B925BEC5FFFEC77B357B9614999EA93770B7D398282",
                         "size":  76263,
                         "notes":  "Change: CVS Vice: throws do less damage (139 to 80).\nChange: CVS Vice: Mayhem does 60 damage at every strength, with less chip damage. Opponents fall faster and can recover sooner.\nChange: CVS Vice: Outrage, EX Outrage and Ravenous do less damage and chip damage.\nFix: Typing a name in Options no longer backs out when you press a letter mapped to a menu button, like B. Esc or B on a controller still cancels.\nChange: Asura Rugal has been removed from the CVS roster."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-31 1655",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610311655/X2-Update-2026-10-31-1655.zip",
+                        "sha256":  "D8848609EF7CE980E596A2E10B564592DB0E88BDBA8773FD2FE4F6783FAAFD1F",
+                        "size":  14928,
+                        "notes":  "Fix: Fresh installs no longer show as OTHER VERSION in the online lobby when on the same update."
                     }
                 ]
 }
