@@ -736,6 +736,13 @@
                         "sha256":  "4DE67CA4C7AF62113CE15CAB080055DD2AD06CB1FC578B4FD9984B1E23777660",
                         "size":  220291763,
                         "notes":  "Change: CVS music is now evened out, so songs play at about the same volume.\nFix: Majin Vegeta\u0027s level 3 (Saiyan Pride Beat-Down) now plays out in full instead of stopping after the grab.\nFix: CVS Daimon can now cancel his Jiraishin, Chou Ukemi roll and grabs into other specials in Hyper Drive and with Drive Cancels, like in KOF XIII."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-30 2219",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610302219/X2-Update-2026-10-30-2219.zip",
+                        "sha256":  "E274BA999DBF547C3212BE5765C7507DDE9B75DFDBA436C5B139D1CE0D9656BC",
+                        "size":  19089,
+                        "notes":  "Change: CVS Twelve\u0027s commands now follow SF3 3rd Strike: N.D.L. QCF+P, A.X.E. QCB+P (ground and air), D.R.A. air QCB+K, Kokkuu air dash on forward-forward or back-back, B.M.K. on forward+MK. EX moves use the same motions with two buttons, and supers use TagWars level buttons.\nFix: CVS Twelve\u0027s N.D.L. strength now follows the button pressed."
                     }
                 ]
 }
