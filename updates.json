@@ -743,6 +743,13 @@
                         "sha256":  "E274BA999DBF547C3212BE5765C7507DDE9B75DFDBA436C5B139D1CE0D9656BC",
                         "size":  19089,
                         "notes":  "Change: CVS Twelve\u0027s commands now follow SF3 3rd Strike: N.D.L. QCF+P, A.X.E. QCB+P (ground and air), D.R.A. air QCB+K, Kokkuu air dash on forward-forward or back-back, B.M.K. on forward+MK. EX moves use the same motions with two buttons, and supers use TagWars level buttons.\nFix: CVS Twelve\u0027s N.D.L. strength now follows the button pressed."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-31 1630",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610311630/X2-Update-2026-10-31-1630.zip",
+                        "sha256":  "559F302664A2E2FC0B833B925BEC5FFFEC77B357B9614999EA93770B7D398282",
+                        "size":  76263,
+                        "notes":  "Change: CVS Vice: throws do less damage (139 to 80).\nChange: CVS Vice: Mayhem does 60 damage at every strength, with less chip damage. Opponents fall faster and can recover sooner.\nChange: CVS Vice: Outrage, EX Outrage and Ravenous do less damage and chip damage.\nFix: Typing a name in Options no longer backs out when you press a letter mapped to a menu button, like B. Esc or B on a controller still cancels.\nChange: Asura Rugal has been removed from the CVS roster."
                     }
                 ]
 }
