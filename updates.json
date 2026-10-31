@@ -729,6 +729,13 @@
                         "sha256":  "A0F00F8DE9C33859F311E787AFA1A07EE1B25E83D0E5DFA863E873EB02C6B250",
                         "size":  666656,
                         "notes":  "Change: The UPDATE item on the title screen now always shows, so you can read the patch notes any time.\nFix: The conch on the WHAT\u0027S NEW screen is no longer cut off.\nFix: The GOING BACK card now shows on top of the WHAT\u0027S NEW screen while holding B."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-30 2104",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610302104/X2-Update-2026-10-30-2104.zip",
+                        "sha256":  "4DE67CA4C7AF62113CE15CAB080055DD2AD06CB1FC578B4FD9984B1E23777660",
+                        "size":  220291763,
+                        "notes":  "Change: CVS music is now evened out, so songs play at about the same volume.\nFix: Majin Vegeta\u0027s level 3 (Saiyan Pride Beat-Down) now plays out in full instead of stopping after the grab.\nFix: CVS Daimon can now cancel his Jiraishin, Chou Ukemi roll and grabs into other specials in Hyper Drive and with Drive Cancels, like in KOF XIII."
                     }
                 ]
 }
