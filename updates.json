@@ -715,6 +715,13 @@
                         "sha256":  "DB2B0450BD17208313AAC4A22FEA10077E1B60938BC70EA41EEB28CD409E9E4F",
                         "size":  71227680,
                         "notes":  "Change: Fury Rush now has its own setting in CVS style, Off by default. Change it in CVS style under Extra Settings \u003e Battle Rules \u003e Clash. MVC style keeps its own setting.\nNew: The host picks the rounds to win when making an online room or using Host Game, and both players fight with that number.\nFix: Online players with different round settings no longer get different rounds to win.\nFix: Holding B on the online character select screen now leaves the match when the bar fills up.\nFix: LB is now Tag and Assist, and LT is now Variable Cross and Snapback, matching the TAG and Drive rows in Joystick Config. Saved button setups do not need changing.\nFix: Snapback now only works in neutral or as a cancel from an attack that hit, not during hitstun or blockstun.\nNew: The stage select screen has a new look. Each stage plays a live preview behind the bars, with its name and a row of stage thumbnails.\nNew: Ancient Tower Chasm can now send the fight three ways. Break the left wall to fall to On The Hilltop At Night, break the right wall to fall to Death Valley (Starry), or crack the glass floor with hard knockdowns until the third one shatters it and drops you to The Chaos Dimension. Offline only.\nNew: Helvetian Lake, On The Hilltop At Night, The Chaos Dimension, Death Valley (Starry) and Gouken\u0027s Temple At Night are now linked through their walls. Offline only.\nFix: In CVS style, fighters no longer air dash in after a stage transition. They run or dash in on the ground, or join directly during a fall.\nChange: Default life is now 100, and a single fighter against a team now has 80 life.\nChange: Stage select is now available in one more game mode.\nChange: SPAR, Evil Ryu, Oswald and Rozwel adjustments, including lower damage on one of SPAR\u0027s specials."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-30 2008",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610302008/X2-Update-2026-10-30-2008.zip",
+                        "sha256":  "3EBC691E41E03ECA2FC84D18F3C0F89C8AFFE0BA91120D91450603E40002A40F",
+                        "size":  7740,
+                        "notes":  "Change: The UPDATE item on the title screen now always shows, so you can read the patch notes any time.\nFix: The conch on the WHAT\u0027S NEW screen is no longer cut off.\nFix: The GOING BACK card now shows on top of the WHAT\u0027S NEW screen while holding B."
                     }
                 ]
 }
