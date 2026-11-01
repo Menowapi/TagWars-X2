@@ -757,6 +757,13 @@
                         "sha256":  "D8848609EF7CE980E596A2E10B564592DB0E88BDBA8773FD2FE4F6783FAAFD1F",
                         "size":  14928,
                         "notes":  "Fix: Fresh installs no longer show as OTHER VERSION in the online lobby when on the same update."
+                    },
+                    {
+                        "name":  "X2 Update 2026-10-31 2329",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202610312329/X2-Update-2026-10-31-2329.zip",
+                        "sha256":  "EF804BD6B47C0C3AC05C15B312A750F9B9AC359B64954FFB80ED18CF1858FA34",
+                        "size":  54117,
+                        "notes":  "Change: The SFvsMK stage no longer comes up in online matches. It\u0027s still playable offline.\nFix: The SFvsMK stage no longer saves its fatality counts during matches, which could make players on the same update show as a different version."
                     }
                 ]
 }
