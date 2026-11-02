@@ -771,6 +771,13 @@
                         "sha256":  "3B983FBC63ACD0ECDC246013AEBB96E36FDC4A960B4D41860E8B3B2B1F2CE3CB",
                         "size":  7766952,
                         "notes":  "Change: CVS normal grabs now do 80 damage in total (grapplers like Zangief, Hugo and T.Hawk do 100). Multi-hit grabs split the 80 across their hits.\nChange: Sky Chase is now its own mechanic for every team (no longer Baroque / Infinity Stones only). It is off by default: turn it on in Extra Settings \u003e Battle Rules \u003e Other Rules. It is always off in online matches.\nChange: CVS Chang, Kairi and Superman: frame data changes and hitbox / hurtbox adjustments.\nNew: Groundwork for TagWars X2L, a lighter version for lower-end PCs. X2 now carries the X2L select screen (2 rows of 16) and its stage list (6 stages per side) so X2 and X2L players can play each other: online, if either player is on X2L, both get the X2L screen, roster and stages, and the Online Lobby lists X2 and X2L rooms for each other. Nothing changes for X2 players yet.\nFix: Start (random) now picks a random character on the X2L select screen, which has no Random box."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-02 1804",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611021804/X2-Update-2026-11-02-1804.zip",
+                        "sha256":  "6F2F81C92665DC63B64150A544C10C0CF5E2C84DE5532467203533ADC1A4F6B5",
+                        "size":  3622658,
+                        "notes":  "Change: TagWars X2L is now about 2.5 GB instead of 4.1 GB: it keeps only the stages, music and stage previews it uses. Older X2L copies remove the unused files by themselves the next time they start through TagWars X2L Launcher.bat."
                     }
                 ]
 }
