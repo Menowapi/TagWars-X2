@@ -806,6 +806,13 @@
                         "sha256":  "F040300FB24B992277914B8335983DADA0B28535D734324C6DD2CA8A20C146EE",
                         "size":  1752899,
                         "notes":  "Change: Ranking screen remade in the TagWars look (rank medals, team faces, your new record glows blue)\nNew: Ranking names can be your full name (up to 12 letters); on a profile your name is saved for you, no typing\nChange: Start screen remade in the TagWars look (new logo, Battle of the Minds, conch by the prompt)\nNew: ARCADE on the title screen - Tag team run of 10 fights with 2 minigames (Sudden Death, Throws Only); debug keys are off during a run and cheated runs aren\u0027t ranked"
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-03 1745",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611031745/X2-Update-2026-11-03-1745.zip",
+                        "sha256":  "46185AB97A9FA0A6CD7CBA371DB92E9EA6841889A6B5DB00DA5C94EBF159CFC3",
+                        "size":  7296418,
+                        "notes":  "New: the ONLINE LOBBY has a PLAYERS tab (LB / RB switches between Rooms and Players): see everyone who has TagWars X2 open, what they are doing, where they are from and whether they play X2 or X2L. ONLINE SETTINGS in the lobby: Appear Offline, who can challenge you, your region. Hold A on a player to CHALLENGE them: they get a NEW CHALLENGER pop-up in the menus, and accepting starts an online match right away - no room hunting, no port forwarding. Players in Arcade or an online match are busy. Friends come next.\nNew: warning and ARE YOU SURE messages (profiles, Options, key config) use the new TagWars card look, and yes/no questions start on the safe choice.\nNew: the online Waiting for player 2 and connecting screens and the room PLAY / WATCH choice use the new TagWars look. Challenges are now Hold A, so nobody gets challenged by accident.\nNew: a challenge that arrives during a local fight shows a strip at the bottom: hold Start to join or Back to decline, or pause to answer. When the match ends it takes the Rematch spot: hold A to join, hold B to decline."
                     }
                 ]
 }
