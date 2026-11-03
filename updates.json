@@ -778,6 +778,13 @@
                         "sha256":  "6F2F81C92665DC63B64150A544C10C0CF5E2C84DE5532467203533ADC1A4F6B5",
                         "size":  3622658,
                         "notes":  "Change: TagWars X2L is now about 2.5 GB instead of 4.1 GB: it keeps only the stages, music and stage previews it uses. Older X2L copies remove the unused files by themselves the next time they start through TagWars X2L Launcher.bat."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-02 2052",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611022052/X2-Update-2026-11-02-2052.zip",
+                        "sha256":  "90348702310B9F01671625E8B4707B4DBDA376F65E68317C39EAB7A609C3B5E0",
+                        "size":  55625361,
+                        "notes":  "New: CVS style adds 3 characters - Saiki, Maylee and Shun\u0027Ei.\nFix: Maylee and Shun\u0027Ei no longer play themselves - their built-in AI only runs when the CPU controls them.\nChange: Saiki, Maylee and Shun\u0027Ei throws do 80 damage; their supers do 160 (level 1), 240 (level 2) and 360 (level 3).\nNew: Command Lists for Saiki, Maylee and Shun\u0027Ei in the pause menu.\nChange: X2 and X2L can still play each other online when X2 gets characters X2L doesn\u0027t have. Both PCs need this update first.\nChange: Wild Punish is now Off by default (Extra Settings).\nChange: CVS Ash takes a little more damage after being knocked down."
                     }
                 ]
 }
