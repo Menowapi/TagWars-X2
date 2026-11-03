@@ -792,6 +792,13 @@
                         "sha256":  "531D8A50936B779DB6A8579DE1BD77925EAEEC00A14D27C9BA48352DF7753A63",
                         "size":  10543,
                         "notes":  "Fix: Wild Punish is now really Off by default, offline and online (the last update only listed the change). If you saved your Extra Settings before, check Wild Punish there."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-02 2241",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611022241/X2-Update-2026-11-02-2241.zip",
+                        "sha256":  "5619581B977B22F774F74E04F686F30EA60C50C2ADB42A2188D6BE0EF38CEC34",
+                        "size":  65377,
+                        "notes":  "New: Going online without a profile now shows how to make one (hold B to close), then opens the lobby with PROFILE ready. Host Game and Join Game go to the lobby too until you have a profile.\nChange: Saving a control profile now also plays as it right away, so its name shows online without loading it again.\nChange: Lobby: CHANGE PROFILE is now PROFILE, with Key Config, Joystick Config and Control Profiles (Load / Save / Delete) inside. A opens it, a tap of B closes it, holding B still leaves the lobby.\nFix: The lobby\u0027s No profiles yet message pointed to a menu that no longer exists."
                     }
                 ]
 }
