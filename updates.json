@@ -785,6 +785,13 @@
                         "sha256":  "90348702310B9F01671625E8B4707B4DBDA376F65E68317C39EAB7A609C3B5E0",
                         "size":  55625361,
                         "notes":  "New: CVS style adds 3 characters - Saiki, Maylee and Shun\u0027Ei.\nFix: Maylee and Shun\u0027Ei no longer play themselves - their built-in AI only runs when the CPU controls them.\nChange: Saiki, Maylee and Shun\u0027Ei throws do 80 damage; their supers do 160 (level 1), 240 (level 2) and 360 (level 3).\nNew: Command Lists for Saiki, Maylee and Shun\u0027Ei in the pause menu.\nChange: X2 and X2L can still play each other online when X2 gets characters X2L doesn\u0027t have. Both PCs need this update first.\nChange: Wild Punish is now Off by default (Extra Settings).\nChange: CVS Ash takes a little more damage after being knocked down."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-02 2056",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611022056/X2-Update-2026-11-02-2056.zip",
+                        "sha256":  "531D8A50936B779DB6A8579DE1BD77925EAEEC00A14D27C9BA48352DF7753A63",
+                        "size":  10543,
+                        "notes":  "Fix: Wild Punish is now really Off by default, offline and online (the last update only listed the change). If you saved your Extra Settings before, check Wild Punish there."
                     }
                 ]
 }
