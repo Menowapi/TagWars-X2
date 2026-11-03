@@ -813,6 +813,13 @@
                         "sha256":  "46185AB97A9FA0A6CD7CBA371DB92E9EA6841889A6B5DB00DA5C94EBF159CFC3",
                         "size":  7296418,
                         "notes":  "New: the ONLINE LOBBY has a PLAYERS tab (LB / RB switches between Rooms and Players): see everyone who has TagWars X2 open, what they are doing, where they are from and whether they play X2 or X2L. ONLINE SETTINGS in the lobby: Appear Offline, who can challenge you, your region. Hold A on a player to CHALLENGE them: they get a NEW CHALLENGER pop-up in the menus, and accepting starts an online match right away - no room hunting, no port forwarding. Players in Arcade or an online match are busy. Friends come next.\nNew: warning and ARE YOU SURE messages (profiles, Options, key config) use the new TagWars card look, and yes/no questions start on the safe choice.\nNew: the online Waiting for player 2 and connecting screens and the room PLAY / WATCH choice use the new TagWars look. Challenges are now Hold A, so nobody gets challenged by accident.\nNew: a challenge that arrives during a local fight shows a strip at the bottom: hold Start to join or Back to decline, or pause to answer. When the match ends it takes the Rematch spot: hold A to join, hold B to decline."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-03 1825",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611031825/X2-Update-2026-11-03-1825.zip",
+                        "sha256":  "A593A3A77A415DF85CE042D99D2430526BDB6C1181AA4C689D0EF6983B4914F0",
+                        "size":  9036720,
+                        "notes":  "New: Stage Select shows which stages have stage transitions: a TRANSITIONS tag, plus a panel with where each wall leads and how to break through.\nNew: the title screen shows how many players are online right now, next to the version."
                     }
                 ]
 }
