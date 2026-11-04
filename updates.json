@@ -820,6 +820,13 @@
                         "sha256":  "A593A3A77A415DF85CE042D99D2430526BDB6C1181AA4C689D0EF6983B4914F0",
                         "size":  9036720,
                         "notes":  "New: Stage Select shows which stages have stage transitions: a TRANSITIONS tag, plus a panel with where each wall leads and how to break through.\nNew: the title screen shows how many players are online right now, next to the version."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-03 2255",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611032255/X2-Update-2026-11-03-2255.zip",
+                        "sha256":  "4387106112B525E7AC4A204A600DF4C33B9A046342462985EA923C962B276A5E",
+                        "size":  209130,
+                        "notes":  "Change: Extra Settings cleanup: Break, Limb Damage, Torso Damage, Wild Punish, Physics, Super Win FX, Hyper Win FX and Match Results are removed (always Off).\nChange: Counter FX, Counter Text, Combo Text, Break Text and Parry FX are now Off by default. Your setting was reset to Off; turn them back on in Visuals \u003e Effects if you want them.\nChange: CVS: Chains, Super Jump, Air Dash and Guard Push are now Off by default. Your setting was reset to Off; turn them back on in Extra Settings \u003e CVS if you want them.\nChange: Super Moves \u003e Zoom now only works in CVS. MVC characters use their own super zoom.\nChange: Wild Counter is back to its original timing: the special has to come out right as you recover from a hit, block or get-up, and up close. Holding back to block no longer counts.\nChange: CVS Maylee, Saiki and Shun\u0027Ei tuned to match the rest of the CVS cast: 3-level super gauge, standard life and defence, normal walk and run speeds, and more of their attacks can be blocked in the air.\nChange: CVS Saiki: lower damage on his normals and specials, updated hitboxes and button inputs.\nChange: CVS Maylee: updated button inputs and animations."
                     }
                 ]
 }
