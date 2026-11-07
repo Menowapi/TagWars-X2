@@ -876,6 +876,13 @@
                         "sha256":  "B110D23F2E88361F1A80BCC14EC4A23494A1E4685DCEE74B7A4C6802CC340AC6",
                         "size":  3637022,
                         "notes":  "Fix: Online, players could show as on another X2 update for 1-3 minutes after starting the game while the game files were being checked. The check now remembers your files and only re-checks changed ones, so it is ready in a second (the first start after this update still takes one full check)."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-07 1430",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611071430/X2-Update-2026-11-07-1430.zip",
+                        "sha256":  "BA3233C65571782D96B805768D6B52D4D3982CC5A82143B0C64F37E61F46501D",
+                        "size":  2478027,
+                        "notes":  "Change: CVS Custom Combo, MAX Mode and Excel Combo now use the Street Fighter Alpha 2 input for every CVS character: any 2 punches + a kick, or any 2 kicks + a punch (was Down + LT, or HP+HK / LT / LP+MP+HP on some characters)\nChange: Power Charge is now MP+MK for every CVS character (Hayato, Nrvnqsr, Roa, Warachia, KAGE, Rockman Zero, Gallon and Bluestreak used other buttons)\nChange: CVS Vice takes a bit more damage while falling or juggled (fall defence 50 to 40), and the neutral jump was adjusted"
                     }
                 ]
 }
