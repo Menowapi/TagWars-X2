@@ -862,6 +862,13 @@
                         "sha256":  "5CDBA85F046EDB26254E35E1BD9AE9185F58EB06D58012DFC743407BA4E50293",
                         "size":  4797509,
                         "notes":  "New: Pilot Wings is now a transition stage (offline). Knock someone off the right side and they get sent flying over the ocean, smashed through the mountains and into Derelict Church; off the left side, into Wilderness Within.\nNew: Vineswept Market, Derelict Church, Wilderness Within, Daoban Temple and Keepers of Immortal Dreams are now linked transition stages (offline), in that order left to right. Break a wall to send your opponent into the next stage.\nRemoved: 13 MVC stages and their songs - Memoria - Ocean, Memoria - World Fusion, Rarity\u0027s Pull, Ultimecia Castle - Bridge, Clock Tower, Dragoon Cavern, Egyptian Valley, Genosha Wilds, Kinder Gym, Knowhere, Otherworld Invasion, Spencer Mansion and INDIAXIII-TWS. The CVS versions of these stages are unchanged.\nNew: Unknown - Gill now has a breakable stone floor (offline). Slam your opponent into the floor 3 times and it caves in, dropping the fight through the sky into Mediterranean Sea - Gill.\nNew: Unknown - Gill also leads up to Hidden Shrine - Gill (offline), the same way SF vs MK goes up to its 2nd floor. Launch your opponent high and the stage fades to black as they fly up and crash through to the Shrine, once a match. Break the Shrine floor to fall back down to Unknown - Gill.\nFix: Chronos with your partner KO\u0027d (Tag while getting hit) could leave you invincible for a long time, blinking or not. The invincibility now lasts 1 second at most."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-06 2350",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611062350/X2-Update-2026-11-06-2350.zip",
+                        "sha256":  "28312B74835F00C8A622371274C3068F994BFF9DA7740997BCE07D6C62DDEE5B",
+                        "size":  122082,
+                        "notes":  "Fix: CVS Captain Commando\u0027s Captain Shoot could juggle forever. Each Captain Shoot in the same combo now makes the opponent fall faster and does 20% less damage (down to 40%).\nFix: CVS Casey\u0027s Harlem Wind-Up with the bat: the first swing now holds the opponent like the stick, so the second swing connects.\nFix: CVS Casey\u0027s Harlem Wind-Up with the crowbar could leave Casey swinging forever (opponent stuck on the wall, or landing before reaching it). Fixed.\nChange: CVS Maylee: new CPU moves, new move, and hitbox adjustments.\nChange: CVS Rozwel and Shun\u0027Ei: move adjustments."
                     }
                 ]
 }
