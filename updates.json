@@ -869,6 +869,13 @@
                         "sha256":  "28312B74835F00C8A622371274C3068F994BFF9DA7740997BCE07D6C62DDEE5B",
                         "size":  122082,
                         "notes":  "Fix: CVS Captain Commando\u0027s Captain Shoot could juggle forever. Each Captain Shoot in the same combo now makes the opponent fall faster and does 20% less damage (down to 40%).\nFix: CVS Casey\u0027s Harlem Wind-Up with the bat: the first swing now holds the opponent like the stick, so the second swing connects.\nFix: CVS Casey\u0027s Harlem Wind-Up with the crowbar could leave Casey swinging forever (opponent stuck on the wall, or landing before reaching it). Fixed.\nChange: CVS Maylee: new CPU moves, new move, and hitbox adjustments.\nChange: CVS Rozwel and Shun\u0027Ei: move adjustments."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-07 1327",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611071327/X2-Update-2026-11-07-1327.zip",
+                        "sha256":  "B110D23F2E88361F1A80BCC14EC4A23494A1E4685DCEE74B7A4C6802CC340AC6",
+                        "size":  3637022,
+                        "notes":  "Fix: Online, players could show as on another X2 update for 1-3 minutes after starting the game while the game files were being checked. The check now remembers your files and only re-checks changed ones, so it is ready in a second (the first start after this update still takes one full check)."
                     }
                 ]
 }
