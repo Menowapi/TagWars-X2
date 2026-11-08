@@ -883,6 +883,13 @@
                         "sha256":  "BA3233C65571782D96B805768D6B52D4D3982CC5A82143B0C64F37E61F46501D",
                         "size":  2478027,
                         "notes":  "Change: CVS Custom Combo, MAX Mode and Excel Combo now use the Street Fighter Alpha 2 input for every CVS character: any 2 punches + a kick, or any 2 kicks + a punch (was Down + LT, or HP+HK / LT / LP+MP+HP on some characters)\nChange: Power Charge is now MP+MK for every CVS character (Hayato, Nrvnqsr, Roa, Warachia, KAGE, Rockman Zero, Gallon and Bluestreak used other buttons)\nChange: CVS Vice takes a bit more damage while falling or juggled (fall defence 50 to 40), and the neutral jump was adjusted"
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-07 2315",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611072315/X2-Update-2026-11-07-2315.zip",
+                        "sha256":  "654F260A0806527707EF24B989C510BCDCD27CF92FC28861DF1C9A253EB2294A",
+                        "size":  11580515,
+                        "notes":  "Change: Snapback can now be done straight out of a run or dash, the same way normals can cancel a run\nNew: Yoko is back on the CVS roster - grabs, supers and command list set to CVS standards\nFix: CVS Captain America\u0027s shield effects no longer stay on screen when you Rush Cancel his shield charge special or his shield supers"
                     }
                 ]
 }
