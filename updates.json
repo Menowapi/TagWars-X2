@@ -890,6 +890,13 @@
                         "sha256":  "654F260A0806527707EF24B989C510BCDCD27CF92FC28861DF1C9A253EB2294A",
                         "size":  11580515,
                         "notes":  "Change: Snapback can now be done straight out of a run or dash, the same way normals can cancel a run\nNew: Yoko is back on the CVS roster - grabs, supers and command list set to CVS standards\nFix: CVS Captain America\u0027s shield effects no longer stay on screen when you Rush Cancel his shield charge special or his shield supers"
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-10 1859",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611101859/X2-Update-2026-11-10-1859.zip",
+                        "sha256":  "0A6E652A45B7D98737817B6C4B6D02FE732BD702FE330949272D0942BB6C2E7A",
+                        "size":  713090684,
+                        "notes":  "Fix: CVS rolls and dodges no longer come out when you don\u0027t have enough Guard bar left (mashing the roll could slip past the check)\nNew: SFV Gill joins the MVC roster\nChange: SFV Gill always starts with both V-Skills and V-Trigger 1 \u0026 2 together (no more picking at the start of the match)\nChange: SFV Gill\u0027s V-Gauge, CA bars and the SKILL/TRIGGER labels are hidden (X2 uses the normal power bar)\nChange: SFV Gill\u0027s combo scaling is gentler - damage now stops dropping at 50% instead of 10% in long combos\nNew: SFV Gill has a full Command List in the pause menu (V-Skills, V-Triggers, launcher and supers with his X2 inputs)\nChange: Chhritos and Alexius sprite files are much smaller on disk, they look and play the same\nChange: SFV Urien\u0027s jumping HK now lets an airborne opponent fall and knocks down"
                     }
                 ]
 }
