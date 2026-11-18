@@ -932,6 +932,13 @@
                         "sha256":  "8B84284C68126A25531331B772C1F722D32BDBC0A18CB748BD1498FED0249049",
                         "size":  90185,
                         "notes":  "Fix: Abel MVC - Breathless can be held again: keep LK or MK held to delay the grab, let go to fire\nFix: Abel MVC - his normals, specials and supers can now be blocked in the air like everyone else\nFix: MVC Balrog - cleaned up his hurtboxes when getting hit"
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-17 2303",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611172303/X2-Update-2026-11-17-2303.zip",
+                        "sha256":  "D9B1769BBF141BD539BB1503D8B4E3C598DD8172FF8D0D78979146A8BD9987D0",
+                        "size":  16231255,
+                        "notes":  "New: Direct online link - rooms, challenges and Quick Match connect you straight to the other player with no port forwarding; if that fails, the relay takes over by itself.\nNew: Quick Match - hold R3 (controller) or 0 (keyboard) on the title screen, in the Online Lobby, in a fight or in training to search while you keep playing. A found match ends your fight after 3 seconds.\nChange: ONLINE now opens the Online Lobby straight away. NETPLAY SETTINGS moved to the lobby\u0027s ONLINE SETTINGS.\nChange: HOST GAME / JOIN GAME (typed-IP netplay) removed from the ONLINE menu.\nChange: Title screen top right shows players online, the version and the Quick Match chip.\nChange: The online helper (IkemenParty.exe) moved into its own TW Online folder and runs without a window.\nChange: CVS Hulk animation and move updates.\nChange: Select and VS screen music lists trimmed."
                     }
                 ]
 }
