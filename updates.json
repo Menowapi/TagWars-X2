@@ -939,6 +939,13 @@
                         "sha256":  "D9B1769BBF141BD539BB1503D8B4E3C598DD8172FF8D0D78979146A8BD9987D0",
                         "size":  16231255,
                         "notes":  "New: Direct online link - rooms, challenges and Quick Match connect you straight to the other player with no port forwarding; if that fails, the relay takes over by itself.\nNew: Quick Match - hold R3 (controller) or 0 (keyboard) on the title screen, in the Online Lobby, in a fight or in training to search while you keep playing. A found match ends your fight after 3 seconds.\nChange: ONLINE now opens the Online Lobby straight away. NETPLAY SETTINGS moved to the lobby\u0027s ONLINE SETTINGS.\nChange: HOST GAME / JOIN GAME (typed-IP netplay) removed from the ONLINE menu.\nChange: Title screen top right shows players online, the version and the Quick Match chip.\nChange: The online helper (IkemenParty.exe) moved into its own TW Online folder and runs without a window.\nChange: CVS Hulk animation and move updates.\nChange: Select and VS screen music lists trimmed."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-19 1555",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611191555/X2-Update-2026-11-19-1555.zip",
+                        "sha256":  "38FBABC597BEDA0D200EE482C41A1515007655685DAE3648BED9028CCC02B9E1",
+                        "size":  50582,
+                        "notes":  "Change: Game Settings no longer lists Auto-Guard, Dizzy, Guard Break, Red Life, Team Life Share, Team Power Share, Simul Settings and Ratio Settings."
                     }
                 ]
 }
