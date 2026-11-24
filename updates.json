@@ -946,6 +946,13 @@
                         "sha256":  "38FBABC597BEDA0D200EE482C41A1515007655685DAE3648BED9028CCC02B9E1",
                         "size":  50582,
                         "notes":  "Change: Game Settings no longer lists Auto-Guard, Dizzy, Guard Break, Red Life, Team Life Share, Team Power Share, Simul Settings and Ratio Settings."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-24 1153",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611241153/X2-Update-2026-11-24-1153.zip",
+                        "sha256":  "537F44A00DC3AD780F769ED18FD341505E0DC9F0E362DA9914D7B5FD780CDC3F",
+                        "size":  8431019,
+                        "notes":  "Online: Smoother rollback netplay. The game now keeps both players in step more evenly, so long-distance matches have fewer slowdowns and speed-ups.\nOnline: Input delay now adjusts to the ping at the start of each match (2 frames on good connections, up to 8 on very far ones).\nOnline: Stronger desync check. If a match goes out of sync it is caught sooner and details are written to save/logs/netfix.txt - please send that file if you get a desync.\nOnline: Both players need this update to play each other. Older versions show as OLD VERSION in the lobby."
                     }
                 ]
 }
