@@ -988,6 +988,13 @@
                         "sha256":  "937FFC5944ED6B89E9A5894D99328F28ECA9B29CA46D9D921138BDD675BFC30B",
                         "size":  8443380,
                         "notes":  "New: Sudden Death now works in online matches. The rules run inside the match itself, so both players always see the same thing. Online uses the default Sudden Death settings (On, Close Call, X-Factor On, Time Out On). Please report anything odd.\nChange: Sudden Death was rebuilt for online play. Offline it works the same as before, but tell us if anything about it feels different."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-25 1204",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611251204/X2-Update-2026-11-25-1204.zip",
+                        "sha256":  "BBD0F21583F51D1F87660A3A77FFC52780E2F7B83257939626E3108F831CDE0C",
+                        "size":  75720,
+                        "notes":  "Fix: Online Lobby no longer shows an old friend code under your profile name.\nFix: Online Lobby settings items (Appear Offline, Challenges From) no longer show in a bigger font than the rest.\nChange: Guy (MVC) can cancel his normals and specials into his supers again, on the ground and in the air."
                     }
                 ]
 }
