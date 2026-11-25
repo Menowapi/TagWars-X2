@@ -995,6 +995,13 @@
                         "sha256":  "BBD0F21583F51D1F87660A3A77FFC52780E2F7B83257939626E3108F831CDE0C",
                         "size":  75720,
                         "notes":  "Fix: Online Lobby no longer shows an old friend code under your profile name.\nFix: Online Lobby settings items (Appear Offline, Challenges From) no longer show in a bigger font than the rest.\nChange: Guy (MVC) can cancel his normals and specials into his supers again, on the ground and in the air."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-25 1245",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611251245/X2-Update-2026-11-25-1245.zip",
+                        "sha256":  "2578D89D58209313F2D37B096BFB222B75AE73B18AB26781F456001FE31D9F45",
+                        "size":  3702001,
+                        "notes":  "Fix: Online file check (the different version wait after starting the game) now saves its progress as it goes, so closing the game early no longer makes it start over from the beginning.\nChange: Online file check reads several files at once, so the first full check is much faster.\nChange: Updates now record the files they install, so going online right after an update no longer waits for a file check.\nFix: Online Lobby players list no longer says OLD VERSION when the other game is just still checking its files. It now shows CHECKING FILES, FILES DIFFER or OTHER VERSION, and the version under the list is no longer cut off.\nNew: Online Lobby shows a small CHECKING FILES bar next to your name while your game checks its files, and players whose game is still checking show a bar with how far along they are."
                     }
                 ]
 }
