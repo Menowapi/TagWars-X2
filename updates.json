@@ -974,6 +974,13 @@
                         "sha256":  "6E1824A919615F3AC251C17328E648844806F7F16E3233B6EF8C2A1E02937005",
                         "size":  8456461,
                         "notes":  "Fix: Super wall splats now trigger from further away - the wall is where the camera can zoom out to, which is past the screen edge you see when zoomed in.\nFix: Rush Impact pop-up and super wall splat - when the camera is zoomed in, the screen edge they hit now counts as the wall (they used to slide off it into a plain crumple).\nFix: Rush Impact wall pop-up now actually works - with the opponent a bit away from the wall they fly back into it, splat and slide down into the crumple stun.\nNew: Rollback smoothing for online matches - after a rollback, characters slide to the right spot over a few frames instead of jumping there. Big corrections and getting hit still snap at once. It only changes what you see, so it can\u0027t cause desyncs. To turn it off, set Rollback.Smoothing = 0 in save/config.ini. Report anything that looks off."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-24 2324",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611242324/X2-Update-2026-11-24-2324.zip",
+                        "sha256":  "B6B446B3893685233909B2E094D80CA44FB80D0C2F6D9437C8789E7776F471D8",
+                        "size":  17615,
+                        "notes":  "New: Online \u003e Netplay Settings has a Rollback Smoothing On/Off switch, so you can turn the new smoothing off without editing files."
                     }
                 ]
 }
