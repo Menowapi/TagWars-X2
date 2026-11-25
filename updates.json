@@ -981,6 +981,13 @@
                         "sha256":  "B6B446B3893685233909B2E094D80CA44FB80D0C2F6D9437C8789E7776F471D8",
                         "size":  17615,
                         "notes":  "New: Online \u003e Netplay Settings has a Rollback Smoothing On/Off switch, so you can turn the new smoothing off without editing files."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-24 2342",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611242342/X2-Update-2026-11-24-2342.zip",
+                        "sha256":  "937FFC5944ED6B89E9A5894D99328F28ECA9B29CA46D9D921138BDD675BFC30B",
+                        "size":  8443380,
+                        "notes":  "New: Sudden Death now works in online matches. The rules run inside the match itself, so both players always see the same thing. Online uses the default Sudden Death settings (On, Close Call, X-Factor On, Time Out On). Please report anything odd.\nChange: Sudden Death was rebuilt for online play. Offline it works the same as before, but tell us if anything about it feels different."
                     }
                 ]
 }
