@@ -953,6 +953,13 @@
                         "sha256":  "537F44A00DC3AD780F769ED18FD341505E0DC9F0E362DA9914D7B5FD780CDC3F",
                         "size":  8431019,
                         "notes":  "Online: Smoother rollback netplay. The game now keeps both players in step more evenly, so long-distance matches have fewer slowdowns and speed-ups.\nOnline: Input delay now adjusts to the ping at the start of each match (2 frames on good connections, up to 8 on very far ones).\nOnline: Stronger desync check. If a match goes out of sync it is caught sooner and details are written to save/logs/netfix.txt - please send that file if you get a desync.\nOnline: Both players need this update to play each other. Older versions show as OLD VERSION in the lobby."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-24 1918",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611241918/X2-Update-2026-11-24-1918.zip",
+                        "sha256":  "512D38ED728C2CDD925F72FA5D39D3283B37AD64E7149ABFF545C52C7F11FBC8",
+                        "size":  8675590,
+                        "notes":  "Online: Stage transitions are ON online but still in BETA testing - bugs may occur on transition stages. Please report anything odd (with save/logs/netfix.txt if it desyncs).\nOnline: Stage transitions now work in online matches - wall breaks, floor breaks, sky falls, the Hidden Shrine climb and the area stages (GIF STAGE, Fire and Rain) all carry over the same as offline.\nOnline: Ancient Tower Chasm, GIF STAGE and Fire and Rain can now come up in online matches.\nOnline: Both players need this update to play each other.\nChange: King Kai planet - Endless is off the stage list. The regular King Kai planet takes its place - knock someone off either side and they fall to Hell."
                     }
                 ]
 }
