@@ -1030,6 +1030,13 @@
                         "sha256":  "0E57D0745B981060C643B501161F80B95DD34AF9BA92114EF3436D494EA2C39A",
                         "size":  3721998,
                         "notes":  "New: Watch direct matches. Players in a match that can be watched show a blue LIVE tag on the PLAYERS tab - press Y to watch. Works for Quick Match, direct rooms, challenges and relay rooms. The players stay on their direct link; only watchers go through the relay.\nNew: Table Rooms - a fighting table shows LIVE. Press X on it to watch the match live.\nNew: LET OTHERS WATCH in Online Settings (On by default). Turn it Off and your matches show NO WATCHING.\nNote: Watching direct matches is brand new - please report anything odd in the Discord."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-27 1646",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611271646/X2-Update-2026-11-27-1646.zip",
+                        "sha256":  "222CF378C2D94AF1C2EFD5C7011CBFC2AEAD0055E4A1630DA7B43A32A5DF779D",
+                        "size":  24516,
+                        "notes":  "Fix: Table Rooms - Left/Right in table options (and on the board) no longer move the cursor up or down after you change a setting."
                     }
                 ]
 }
