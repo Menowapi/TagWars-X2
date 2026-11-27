@@ -1002,6 +1002,13 @@
                         "sha256":  "2578D89D58209313F2D37B096BFB222B75AE73B18AB26781F456001FE31D9F45",
                         "size":  3702001,
                         "notes":  "Fix: Online file check (the different version wait after starting the game) now saves its progress as it goes, so closing the game early no longer makes it start over from the beginning.\nChange: Online file check reads several files at once, so the first full check is much faster.\nChange: Updates now record the files they install, so going online right after an update no longer waits for a file check.\nFix: Online Lobby players list no longer says OLD VERSION when the other game is just still checking its files. It now shows CHECKING FILES, FILES DIFFER or OTHER VERSION, and the version under the list is no longer cut off.\nNew: Online Lobby shows a small CHECKING FILES bar next to your name while your game checks its files, and players whose game is still checking show a bar with how far along they are."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-26 2235",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611262235/X2-Update-2026-11-26-2235.zip",
+                        "sha256":  "F93A31F9985B130C0E98994AC932808636C9428C2498056399BC1644AB5AB028",
+                        "size":  26634,
+                        "notes":  "Change: Netplay Settings - Rollback Frame Delay now has Auto (picks the delay from your ping, never below 2) and it is the default. Pick a number for a fixed delay."
                     }
                 ]
 }
