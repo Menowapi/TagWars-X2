@@ -1037,6 +1037,13 @@
                         "sha256":  "222CF378C2D94AF1C2EFD5C7011CBFC2AEAD0055E4A1630DA7B43A32A5DF779D",
                         "size":  24516,
                         "notes":  "Fix: Table Rooms - Left/Right in table options (and on the board) no longer move the cursor up or down after you change a setting."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-27 1758",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611271758/X2-Update-2026-11-27-1758.zip",
+                        "sha256":  "B28242BD01933DB222EB7C8827E9F4F61A9D648044287494801D97F4F3DE5419",
+                        "size":  24628,
+                        "notes":  ""
                     }
                 ]
 }
