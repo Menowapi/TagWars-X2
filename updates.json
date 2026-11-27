@@ -1016,6 +1016,13 @@
                         "sha256":  "2506C834102647AF7793144BBD1EEDF744CD34024D5DBB307C44DC9C4AB56740",
                         "size":  130285,
                         "notes":  "New: Updates now install by themselves. When a new update is out, the game shows an UPDATING screen with the patch notes, downloads it, then closes and opens again on the new version. No buttons, no launcher window.\nChange: If an update can\u0027t install by itself, the TagWars X2 Launcher window opens instead so you can see why. After 3 failed tries the game stops forcing it and the UPDATE button still works.\nFix: Gill (SFV) now shows his guard animation when blocking in the air."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-27 1452",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611271452/X2-Update-2026-11-27-1452.zip",
+                        "sha256":  "A210A6F22CF0085133AC1FF4FA798D5336D0F2E33F5CDAD46EBDA13FE4F71322",
+                        "size":  3694361,
+                        "notes":  "New: TABLE ROOMS in the Online Lobby. Up to 16 players in one room with 4 tables, so several matches can run at once. Take a seat (A), ready up (A) and your match starts over a direct link (relay only if direct fails). Full table: join the queue. X = watch, Y = table options, Back or Enter = chat, tap B = leave your spot, hold B = leave the room.\nNew: Table sets. The room host picks per table: first to 1-10 (or no set) and what happens after a set: Winner stays, Loser stays or Both rotate. Players in the queue get the seat when it\u0027s their turn.\nNote: Table Rooms are brand new - please report anything odd in the Discord. Regular online rooms, challenges and Quick Match work as before."
                     }
                 ]
 }
