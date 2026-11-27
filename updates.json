@@ -1023,6 +1023,13 @@
                         "sha256":  "A210A6F22CF0085133AC1FF4FA798D5336D0F2E33F5CDAD46EBDA13FE4F71322",
                         "size":  3694361,
                         "notes":  "New: TABLE ROOMS in the Online Lobby. Up to 16 players in one room with 4 tables, so several matches can run at once. Take a seat (A), ready up (A) and your match starts over a direct link (relay only if direct fails). Full table: join the queue. X = watch, Y = table options, Back or Enter = chat, tap B = leave your spot, hold B = leave the room.\nNew: Table sets. The room host picks per table: first to 1-10 (or no set) and what happens after a set: Winner stays, Loser stays or Both rotate. Players in the queue get the seat when it\u0027s their turn.\nNote: Table Rooms are brand new - please report anything odd in the Discord. Regular online rooms, challenges and Quick Match work as before."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-27 1609",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611271609/X2-Update-2026-11-27-1609.zip",
+                        "sha256":  "0E57D0745B981060C643B501161F80B95DD34AF9BA92114EF3436D494EA2C39A",
+                        "size":  3721998,
+                        "notes":  "New: Watch direct matches. Players in a match that can be watched show a blue LIVE tag on the PLAYERS tab - press Y to watch. Works for Quick Match, direct rooms, challenges and relay rooms. The players stay on their direct link; only watchers go through the relay.\nNew: Table Rooms - a fighting table shows LIVE. Press X on it to watch the match live.\nNew: LET OTHERS WATCH in Online Settings (On by default). Turn it Off and your matches show NO WATCHING.\nNote: Watching direct matches is brand new - please report anything odd in the Discord."
                     }
                 ]
 }
