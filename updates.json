@@ -1163,6 +1163,13 @@
                         "sha256":  "DFBE8EB7C0850EA046A5C1739DEAE4442436EE50063A5764C56731D0EDEE6DA1",
                         "size":  15207,
                         "notes":  "Fix: Table Rooms - ROOM NAME: the keyboard and a controller now both work at any time (the screen switches to the one you use), B on a controller goes back, holding Backspace keeps erasing, you can type again after erasing everything, and the key that opens it no longer types a letter."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-28 0126",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611280126/X2-Update-2026-11-28-0126.zip",
+                        "sha256":  "FA005A8A0FE2723E48E4EDAE4EB1CE18E2B21C9C6B1348462B624A3D1E9BAD21",
+                        "size":  3653428,
+                        "notes":  "New: Table Rooms - the MEMBERS list shows a ping next to each name, with green / yellow / red bars like the in-match ping. Your own number is your connection to the room; the ~ numbers are an estimate of the ping between you and that player."
                     }
                 ]
 }
