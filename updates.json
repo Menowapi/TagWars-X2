@@ -1184,6 +1184,13 @@
                         "sha256":  "725ADF2CFBC4FBE029613FEFBCE82B9BAACF43CA4F0FE8434C8F179F031E05BF",
                         "size":  31249,
                         "notes":  "Change: Table Rooms - the ping in the MEMBERS list now sits right after each player\u0027s name."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-28 1137",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611281137/X2-Update-2026-11-28-1137.zip",
+                        "sha256":  "B4AF313CB87FFEE96FAE1A316488AD34A223500A817431D26522F9F028367B43",
+                        "size":  71440,
+                        "notes":  "Fix: Online Co-Op Arcade - the CPU team now gets the same mode on both PCs, which caused the desync right as the first fight started.\nFix: Online Co-Op Arcade - the Sudden Death and Throws Only minigames are set up the same way on both PCs before the fight."
                     }
                 ]
 }
