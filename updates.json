@@ -1051,6 +1051,13 @@
                         "sha256":  "F83A6452421FED0B1F2A9D5B02CF2228CBC36EBCDBF1ECFBF2ADA446CF6E7A2C",
                         "size":  53837,
                         "notes":  "Fix: Table Rooms - after a few matches, the next match at a table could fail right away (the game joined an old, closed link). Matches now always use the new link.\nNew: Table Rooms - you can watch a table live while you wait in its queue (X on the board). When your seat comes up, watching ends and you are back at the table."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-27 1905",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611271905/X2-Update-2026-11-27-1905.zip",
+                        "sha256":  "F1DDE9D9CC47909BCAB7B406D5F94EE0C64EB163A6FBF154A759603EA87E8795",
+                        "size":  25106,
+                        "notes":  ""
                     }
                 ]
 }
