@@ -1170,6 +1170,13 @@
                         "sha256":  "FA005A8A0FE2723E48E4EDAE4EB1CE18E2B21C9C6B1348462B624A3D1E9BAD21",
                         "size":  3653428,
                         "notes":  "New: Table Rooms - the MEMBERS list shows a ping next to each name, with green / yellow / red bars like the in-match ping. Your own number is your connection to the room; the ~ numbers are an estimate of the ping between you and that player."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-28 0129",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611280129/X2-Update-2026-11-28-0129.zip",
+                        "sha256":  "83B687271564378580C07AD53E9189DB00CED06EC0DC7EF240DCE6F256D8497C",
+                        "size":  31207,
+                        "notes":  "Change: Table Rooms - your own ping in the MEMBERS list is now green / yellow / red like everyone else\u0027s."
                     }
                 ]
 }
