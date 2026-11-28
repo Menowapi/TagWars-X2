@@ -1128,6 +1128,13 @@
                         "sha256":  "F990E8C91BBDEEC4F985F2E0DD2E431E21FBDE0FF9B0B90BDF1484CA5D426535",
                         "size":  15505,
                         "notes":  ""
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-28 0028",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611280028/X2-Update-2026-11-28-0028.zip",
+                        "sha256":  "C087721DB3BCC51B6108A9575F6D3797A1C9DD362C1DD57DB28340462E25C6D8",
+                        "size":  12132420,
+                        "notes":  ""
                     }
                 ]
 }
