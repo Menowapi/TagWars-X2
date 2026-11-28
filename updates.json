@@ -1107,6 +1107,13 @@
                         "sha256":  "BF4CB59A10B2DBE3E71AB7E5E29A64364095F5558C205057DDAA52784850A8B5",
                         "size":  29368,
                         "notes":  "Fix: Table Rooms - when a set ends and the seats change, both players now go back to the room instead of X2\u0027s character select.\nFix: Table Rooms - B on a controller now closes the chat box.\nNew: Table Rooms - the host can pass the host to a member: PASS THE HOST in table options, or pick one when you hold B to leave.\nNew: Table Rooms - controller chat: Back on a controller opens QUICK CHAT (ready lines) and an on-screen KEYBOARD (LB / RB switch).\nFix: X2L can no longer watch X2 matches (its roster is smaller). X2L watches matches with an X2L player in them; X2 can still watch everything. X2 matches show X2 ONLY on X2L.\nChange: the watch screen (watching a match from the lobby, PLAYERS or Table Rooms) now has the TagWars X2 look.\nChange: Online Lobby - the ROOMS tab now lists Table Rooms, and CREATE A ROOM replaces HOST ONLINE ROOM and TABLE ROOMS. The old one-match rooms are gone (challenges and Quick Match stay).\nNew: Table Rooms - name your room when you create it (keyboard, or on-screen keys on a controller); the host can rename it in table options.\nNew: Online - after you connect, pick TAGWARS (default), META WORLD (one on one), TURNS VS or CO-OP ARCADE.\nNew: Online CO-OP ARCADE is TagWars Arcade - you and a friend are the Tag team for the 10 fights, with both minigames (Sudden Death, Throws Only)."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-27 2034",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611272034/X2-Update-2026-11-27-2034.zip",
+                        "sha256":  "E0B4A7341A6824EAEDA38772CC9AAD8A87DCB4248363A8D53FCEE53E7C81D199",
+                        "size":  20430,
+                        "notes":  "Fix: Online CO-OP ARCADE desynced when the first fight started (each PC picked its own CPU team)."
                     }
                 ]
 }
