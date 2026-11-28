@@ -1114,6 +1114,13 @@
                         "sha256":  "E0B4A7341A6824EAEDA38772CC9AAD8A87DCB4248363A8D53FCEE53E7C81D199",
                         "size":  20430,
                         "notes":  "Fix: Online CO-OP ARCADE desynced when the first fight started (each PC picked its own CPU team)."
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-27 2333",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611272333/X2-Update-2026-11-27-2333.zip",
+                        "sha256":  "CA42BB48A47342E1268C84B2468F0F1941640E24BA1E57269FFDEE0DED20DE4E",
+                        "size":  8436516,
+                        "notes":  ""
                     }
                 ]
 }
