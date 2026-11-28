@@ -1156,6 +1156,13 @@
                         "sha256":  "57E291ED42253D81BB9A1A758F30BB5BD1953077E384B6874371B9B605C84AE2",
                         "size":  30728,
                         "notes":  ""
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-28 0105",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611280105/X2-Update-2026-11-28-0105.zip",
+                        "sha256":  "DFBE8EB7C0850EA046A5C1739DEAE4442436EE50063A5764C56731D0EDEE6DA1",
+                        "size":  15207,
+                        "notes":  "Fix: Table Rooms - ROOM NAME: the keyboard and a controller now both work at any time (the screen switches to the one you use), B on a controller goes back, holding Backspace keeps erasing, you can type again after erasing everything, and the key that opens it no longer types a letter."
                     }
                 ]
 }
