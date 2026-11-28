@@ -1135,6 +1135,13 @@
                         "sha256":  "C087721DB3BCC51B6108A9575F6D3797A1C9DD362C1DD57DB28340462E25C6D8",
                         "size":  12132420,
                         "notes":  ""
+                    },
+                    {
+                        "name":  "X2 Update 2026-11-28 0034",
+                        "url":  "https://github.com/Menowapi/TagWars-X2/releases/download/u202611280034/X2-Update-2026-11-28-0034.zip",
+                        "sha256":  "A5EF87EF0687775FEBD10D023FCE0AE14B87E076BEF4D33ED594720B16F3FBEA",
+                        "size":  30586,
+                        "notes":  "Change: Online - after a desync, save/logs/netfix.txt now lists what each PC had on the frames around it. Please send that file from both PCs when you report a desync.\nFix: Table Rooms - typing a room name (and table chat) on a keyboard now works; letters were being dropped. ROOM NAME now has its own mode per device, like the character search: open it with the keyboard and only the keyboard types; open it with a controller and only the on-screen keys work.\nNew: Watching - joining a room now puts you straight into the fight that\u0027s on, a few seconds behind the players, instead of replaying the whole session from the start. Between fights you see who won while the players pick. (Test - please report anything odd.)"
                     }
                 ]
 }
